@@ -1,0 +1,76 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #fff;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+/* Series button specific container */
+.series-button-container {
+  position: relative; /* This makes the dropdown position relative to the Series button */
+}
+
+.series-button-container .button {
+  padding: 10px 20px;
+  background-color: #d9d9d9;
+  border: none;
+  cursor: pointer;
+  color: #000;
+  font-size: 14px;
+  white-space: nowrap; /* Prevents the text from wrapping */
+  transition: width 0.2s ease; /* Smooth width adjustment */
+  position: relative;
+  right: 0;
+}
+
+.button {
+  padding: 10px 20px;
+  background-color: #d9d9d9;
+  border: none;
+  cursor: pointer;
+  color: #000;
+  font-size: 14px;
+}
+
+.button.active {
+  box-shadow: 0 0 0 1px black; /* Simulate a border without affecting button size */
+}
+
+/* Position the dropdown relative to the Series button */
+.dropdown {
+  background-color: #fff;
+  border: none;
+  padding: 0px;
+  position: absolute;
+  top: 100%; /* Align dropdown directly below the button */
+  left: 0; /* Align dropdown to the left under the button */
+  z-index: 10;
+  width: 100%;
+  font-size: 14px;
+}
+
+.dropdown ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown ul li {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #fff;
+  transition: background-color 0.2s ease;
+  color: #000;
+  box-shadow: 0 0 0 1px black; /* Simulate a border without affecting button size */
+}
+
+.dropdown ul li:hover {
+  background-color: #ddd;
+}

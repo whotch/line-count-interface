@@ -1,0 +1,12 @@
+.clickbox {
+    display: flex; /* Use flexbox for alignment */
+    flex-direction: column;
+    align-items: flex-start; /* Center vertically */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+.clickbox-label {
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}

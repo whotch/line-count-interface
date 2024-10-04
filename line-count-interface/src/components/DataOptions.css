@@ -1,0 +1,115 @@
+/* src/components/DataOptions.css */
+
+.data-options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.dropdown-label, .clickbox-label {
+  margin-bottom: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+select {
+  padding: 10px 10px; /* Match button padding */
+  font-size: 14px; /* Match button font size */
+  border: none; /* Remove border for cleaner look */
+  background-color: #fff; /* Match button background color */
+  color: #000; /* Match button text color */
+  cursor: pointer; /* Add cursor pointer for dropdown */
+  width: 90px; /* Keep consistent width */
+  appearance: none; /* Remove default arrow style for dropdown */
+  box-shadow: 0 0 0 1px black;
+  margin-bottom: 15px;
+}
+
+select:focus {
+  outline: none; /* Remove default outline on focus */
+  background-color: #ccc; /* Optional: Change background on focus */
+}
+
+.app-container {
+  display: flex;
+  justify-content: center; /* Center the container horizontally */
+  padding: 40px; /* Optional: Add padding */
+}
+
+.totals-outer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start; /* Align items at the top */
+  background-color: #fff;
+  padding: 20px;
+  width: 1200px;
+}
+
+.left-column, .right-column {
+  flex: 0 0 200px; /* Set a fixed width for the dropdown column */
+  display: flex;
+  flex-direction: column; /* Stack the dropdowns vertically */
+  /* margin-right: 20px; Space between the columns */
+  padding: 0;
+}
+
+.center-column {
+  flex: 1; /* Take up remaining space */
+  display: flex;
+  flex-direction: column; /* Stack title and totals vertically */
+  justify-content: flex-start; /* Align content to the top */
+  text-align: center; /* Center the text */}
+
+.title-container {
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.totals-container {
+  background-color: #fff;
+  display: flex;
+  justify-content: center; /* Center the totals-list horizontally */
+  padding: 10px;
+  border-radius: 5px;
+  text-align: left;
+  width: 100%; /* Ensure the totals take up the full width */
+}
+
+.totals-list {
+  display: inline-block; /* Allow the list to adjust its width based on content */
+  list-style-type: none;
+  padding-left: 0;  /* Removes the default padding */
+  margin: 0;
+  width: auto; /* Adjust the width of the list based on the longest item */
+}
+
+.totals-list li {
+  text-align: left; /* Ensure text inside list items is left-justified */
+  white-space: nowrap; /* Prevent wrapping to keep items in one line */
+  margin-bottom: 2px;
+}
+
+.dropdown-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.part-clickbox-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.clickbox-container {
+  display: flex;
+  flex-direction: column;
+}
+
+li.spacer {
+  height: 1em;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}

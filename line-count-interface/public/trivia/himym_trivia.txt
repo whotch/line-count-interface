@@ -1,0 +1,45 @@
+A higher episode count serves as the tie-breaker.
+For characters with identical names, I've added the first episodein which they appeared in parentheses.
+Characters played by Josh Radnor, Jason Segel, Cobie Smulders, Neil Patrick Harris, and Alyson Hannigan in fake history lessons or similar cutaways were attributed to the appropriate main character.
+Tracy was only counted as appearing in an episode when Cristin Milioti played her, not when a body double was on screen. If a character neither speaks nor shows their face, it typically does not count as an appearance.
+Archival footage counted as an appearance only if lines were spoken. 
+Ted, Marshall, Barney, and Robin are in all 208 episodes. Lily is in 206; she was not in S4 episodes 21 and 22 (“The Three Days Rule” and “Right Place Right Time”). The next highest episode counts are Penny (67), Luke (64), Marvin W. (31), Ranjit (21), Carl (19), Wendy (17), Victoria and Judy (15), Tracy (14), Zoey and James (13), Marvin Sr., Marcus, and Patrice (12), and Nora, Mickey, and Loretta (11).
+Highest lines-per-episode averages (minimum 3 episodes): Ted (55.8), Barney (40.3), Marshall (36.1), Jerry (32.5), Robin (32.3), Lily (30.4), Druthers (29.0), Stella (27.2), Tracy (20.9), Quinn (20.6), The Captain (19.9), Kevin (19.1), Victoria (18.7), Abby (18.3), Cootes (18.3).
+Characters in 5+ episodes with the lowest lines-per-episode averages: Luke (0.4), Marvin W. (0.4), Penny (0.5), Linus (1.0), Marvin Jr. (1.4), Tim Gunn (1.6), Mike (2.0), Marcus (2.8), Carl (3.4), Scooter (3.6), Patrice (3.9), Wendy (3.9), Alan Thicke (4.8), Ranjit (5.0), Becky (5.4).
+Each main character’s most prominent season (by number of lines): S1 – Ted and Lily, S4 – Barney, S5 – Marshall and Robin.
+Each main character’s most prominent season (by average): S1 – Ted and Lily, S2 – Robin, S3 – Barney, S5 – Marshall.
+Each main character’s least prominent season (by number of lines): S1 – Barney, S3 – Robin and Lily, S8 – Ted and Marshall.
+Each main character’s least prominent season (by average): S1 – Barney, S8 – Ted and Marshall, S9 – Robin and Lily.
+Other major or multi-season characters’ most prominent season: S1 for Victoria, Ranjit, Carl, Stuart, Claudia, Scooter, Luke; S2 for Stella, Brad, Virginia; S3 for Wendy; S4 for Bilson; S5 for Mike; S6 for Zoey, Arthur, Jerry, Judy, Marvin Sr., Punchy, Marcus, Marvin Jr.; S7 for Kevin, Quinn, Mickey, Nora, Sandy; S8 for Nick, The Captain, Robin Sr., Patrice; S9 for Tracy, James, Loretta, Blauman, Penny.
+Barney averaged more lines per episode in S3 than Ted did in S8.
+Ted was first in all 9 seasons. Barney was the only other character always in the top 3; he was second in all seasons except S1 (third) and S5 (third). Marshall fell out of the top 3 only once in S8, when Robin beat him out for third place. Robin was fourth every season besides S1 (fifth) and S8 (third). Lily was fifth in every season except S1 (fourth). The five main characters made up the top 5 in every season and overall.
+Robin beat Lily in S2 by one line.
+Victoria was in the top 10 for a season three times. James, Stella, Loretta, Mickey, Nora, The Captain, and Quinn were each in the top 10 twice.
+The most common order of the top 5 in a season and the order for the series as a whole is: Ted, Barney, Marshall, Robin, Lily.
+The only times a guest said 100+ lines in a season: Zoey in S6 (207), Kevin in S7 (190), Victoria in S1 (152), Quinn in S7 (127), Daphne in S9 (109), Jerry in S6 (108). Stella is the only one to do this twice: in S3 (142) and S4 (123). 
+The only characters to appear in all 9 seasons are Ted, Marshall, Robin, Barney, Lily, Luke, Penny, and Ranjit. Luke and Penny only spoke in S1, S2, S5, and S9, so Ranjit is the only guest character to speak in all 9 seasons. Carl spoke in and Marcus appeared in 8 seasons.
+Most lines in an episode: Ted, with 115 in “The Pineapple Incident”. Ted is the only character to break 100 lines in an episode, and he did it three other times: 113 in “Ten Sessions”, 101 in “Milk”, 100 in “Purple Giraffe”.
+The times a character besides Ted said 75+ lines in an episode: Marshall with 97 in “Slapsgiving 3: Slappointment in Slapmarra”, Marshall with 90 in “The Chain of Screaming”, Barney with 86 in “The Bracket”, Robin with 86 in “Sandcastles in the Sand”, Tracy with 85 in “How Your Mother Met Me”, Robin with 80 in “Slap Bet”, Barney with 78 in “The Rehearsal Dinner”, Robin with 77 in “First Time in New York”, Barney with 76 in “A Change of Heart”, Stella with 76 in “Ten Sessions”, Marshall with 75 in “Life Among the Gorillas”. Lily’s highest total was 68 in “Atlantic City”.
+Most lines in an episode by a guest: Stella with 76 in “Ten Sessions”, Victoria with 67 in “Cupcake”, Jen with 57 in “Double Date”, Jerry with 55 in “Legendaddy”, James with 54 in “Single Stamina”, Victoria with 54 in “Ducky Tie”.
+Jen in “Double Date” is the highest-scoring single-episode character with 57 lines.
+In “How Your Mother Met Me”, Tracy had 85 lines, her highest-scoring episode. It also was the lowest-scoring episode for the five other main characters. Ted said only 17, Barney and Lily each said only 3, and Marshall and Robin said none. The next lowest line counts in an episode for each character: Ted had only 23 in “The Stinsons”, Marshall had only 11 in “The Rehearsal Dinner”, Barney had only 11 in “Jenkins” and “Sunrise”, Robin had only 4 in “Robots vs. Wrestlers”, and Lily had only 3 in “Mosbius Designs” and “As Fast as She Can”.
+Lily had fewer than 10 lines five times. Robin had fewer than 10 lines three times, Marshall and Barney each once, and Ted never.
+Ted had the most lines in 127 of 208 episodes. Barney led an episode 36 times, Marshall led 28 times, Lily 10 times, Robin 7 times, Tracy twice, and Victoria once. Barney was in second place most often (60 times). Marshall was in third place most often (52 times).
+The smallest margin by which Ted got first place for a season was when he beat Barney by 210 lines in S8. The largest was when Ted was 778 lines ahead of Marshall in S1.
+Ted had 1000+ lines in every season. The only other character to have 1000+ lines in a season was Barney, who did it in S4.
+Ted’s lines said by Bob Saget: 157 in S1, 162 in S2, 154 in S3, 181 in S4, 229 in S5, 201 in S6, 195 in S7, 118 in S8, 137 in S9. Saget totaled 1534 lines over the whole series and averaged 7.4 lines per episode.
+Without Bob Saget’s lines, Ted still has 10075 total lines.
+Bob Saget’s highest single-episode line count was 23 in “The Mermaid Theory”. That is the only time he went over 20 lines in any episode.
+S6 had the most lines from guests at 1127. S2 had the least with 818.
+Barney had 8383 total lines, which is amazing considering the recurring joke centered around Barney and the number 83.
+No guest ever reached the top 5 for any season. Through S8, the closest race was in S3 when Stella was only 468 lines behind Lily. In S9, Tracy was only 356 lines behind Lily for fifth, and Daphne was only 182 lines behind Tracy for sixth.
+Daphne is the highest-scoring character who only appeared in one season.
+Barney in S4 had only 36 fewer lines than Ted did in S8. That is the closest any character from any season came to any of Ted’s season totals.
+Ted had a 13-episode first-place streak to start the series, which is the longest first-place streak of any character across the whole show.
+The season in which Ted was defeated in the most episodes was S8 where it happened 12 times. In that season, Barney led 5 times, Marshall and Lily each led 3 times, and Robin led once.
+Each main character had a doppelganger played by the same actor. Harris had 18 lines as Dr. Stangel, Hannigan had 8 lines as Jasmine, Radnor had 1 line as Mexican Wrestler Ted, and Segel and Smulders had no lines as Mustache Marshall and Lesbian Robin respectively.
+Ted said his 10,000th line in S8E16 “Bad Crazy”.
+At the end of S4E19 “Murtaugh”, the order of the main characters over the course of the series was: Ted, Barney, Marshall, Lily, then Robin. This was the last time they would not be in their final order (Robin then Lily).
+At the end of S2E19 “Bachelor Party”, Marshall was second in total lines for the series. This was the last time anyone besides Barney was second.
+Barney was fourth in total lines for the series after S2E8 “Atlantic City”.
+Marshall was fifth in total lines for the series after S1E4 “Return of the Shirt” until after S1E7 “Matchmaker”; after S1E8 “The Duel”, he passed Lily and Robin for third.

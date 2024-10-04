@@ -1,0 +1,31 @@
+.app-container {
+    display: flex;
+    justify-content: center; /* Center the container horizontally */
+    padding: 40px;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    width: 1200px;  
+}
+
+.title-container {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+  
+.about-text {
+    font-size: 16px;
+    color: #333;
+    white-space: pre-wrap;
+    list-style-type: none;
+    margin-bottom: 20px;
+    text-align: center;
+}

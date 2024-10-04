@@ -1,0 +1,28 @@
+A higher episode count serves as the tie-breaker.
+For characters with identical names, I've added the first episodein which they appeared in parentheses.
+Many characters are played by multiple actors across different ages in Season 1. Most prominently, Rhaenyra had 229 lines spoken by Milly Alcock (225 in 5 episodes in S1, 5 in 2 episodes in S2). This accounts for 34% of her total lines. The rest were spoken by Emma D’Arcy.
+Alicent had 132 lines spoken by Emily Carey in 5 episodes. This accounts for 26% of her total lines. The rest were spoken by Olivia Cooke.
+Laena was played by three actors. The youngest version, played by Nova Foueillis-Mosé, had 7 lines across 2 episodes (18%). Adolescent Laena, played by Savannah Steyn, had 6 lines in 1 episode (15%). The rest were spoken by Nanna Blondell.
+Laenor was also played by three actors, although the youngest version, played by Matthew Carver, spoke no lines in his 1 episode. Adolescent Laenor, played by Theo Nate, had 19 lines in 2 episodes (32%). The rest were spoken by John Macmillan.
+Aegon appeared as an infant in 1 episode before being portrayed by Ty Tennant, who spoke 23 lines in 2 episodes (12%). The rest were spoken by Tom Glynn-Carney.
+Aemond had 24 lines spoken by Leo Ashton in 2 episodes (20%). The rest were spoken by Ewan Mitchell.
+Helaena appeared as an infant in 2 episodes before being portrayed by Evie Allen, who spoke 8 lines in 2 episodes (16%). The rest were spoken by Phia Saban.
+Jacaerys had 17 lines spoken by Leo Hart in 2 episodes (12%). The rest were spoken by Harry Collett.
+Lucerys had 11 lines spoken by Harvey Sadler in 2 episodes (35%). The rest were spoken by Elliot Grihault.
+Joffrey appeared in 1 episode as a newborn before having lines spoken by Oscar Eskinazi.
+Baela had 5 lines spoken by Shani Smethurst in 2 episodes (9%). The rest were spoken by Bethany Antonia.
+Rhaena had 9 lines spoken by Eva Ossei-Gerning in 2 episodes (27%). The rest were spoken by Phoebe Campbell.
+Willem Blackwood had 2 lines spoken by Alfie Todd in 1 episode (11%). The rest were spoken by Jack Parry-Jones.
+Jefferson Hall plays both Tyland and Jason Lannister. Together they amassed 89 lines.
+No character appeared in every episode of S1. Rhaenyra, Alicent, and Daemon each miss one. These are the only episodes of the series they miss making them the most-appearing characters (17). The next most-appearing characters are: Cole (16); Corlys (14); Mysaria, Larys, Tyland, Aegon, Aemond, Orwyle (13); Otto, Jace, Helaena (12); Viserys, Rhaenys, Baela, Jasper, Gerardys (11); and Rhaena, Lorent (10).
+Rhaenyra has the highest lines-per-episode average (39.5), followed closely by Viserys (37.5). The next highest (3 episode min.) are: Alicent (29.5), Daemon (23.2), Otto (19.5), Aegon (14.0), Laenor (11.8), Rhaenys (11.7), Jace (11.4), Cole (11.1), and Corlys (11.0).
+The most lines by one character in an episode was Viserys in the pilot “The Heirs of the Dragon” (81), followed by Viserys in the second episode “The Rogue Prince” (67), then Rhaenyra in S1E4 “King of the Narrow Sea” (63), then both Viserys in S1E3 “Second of His Name” and Alicent in S1E6 “The Princess and the Queen” (62).
+Rhaenyra had the most lines in an episode more than anyone else at 9 times. Second most was Viserys (4), then Alicent (3). Daemon and Aegon each did this once.
+Rhaenyra had the second-most lines in an episode 6 times. Following her was Alicent who did it 5 times. Daemon did this 4 times, and Viserys and Otto each did it twice.
+Daemon came in third place in an episode more than anyone else, 4 times. Aegon did this 3 times. Viserys, Alicent, and Cole each did this twice, and Otto, Corlys, Jace, Tyland, and Oscar Tully each did this once.
+Most lines by a guest star: Laenor (59), followed by Lyonel (53), then Laena (38).
+Fewest lines by a credited regular: Cregan (9), who was only in 1 episode and will have more in the future. After him is Kat (15).
+Rhaenyra and Alicent were in the top 3 for both seasons. Daemon was in the top 5 for both. Corlys and Cole were in the top 10 for both.
+Rhaenys, Aemond, Larys, and Mysaria are the most prominent characters who never made the top 3 for lines in an episode.
+Tyland is the most prominent character not to make the top 10 in either season.
+Characters that missed the top 30 in a season where they were a credited regular: Baela in S1, Kat in S2, Cregan in S2.

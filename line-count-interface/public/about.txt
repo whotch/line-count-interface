@@ -1,0 +1,9 @@
+Hey there! My name is Will! I love TV shows, and I love data!
+I got the idea to track lines of characters in various shows from redditor u/WalterEagle, but all data has been collected by me.
+As I rewatch a show, I tally every line spoken by every character in each episode, and I put it in a spreadsheet afterwards. It adds basically no extra time.
+To make this website you're looking at, I added that data to a database as a csv file, imported that to a SQL database,
+and created the other tables from the original table of episode totals.
+I created this interface to practice my coding skills and to create a better way to display the data I've collected.
+I've used Flask to connect the SQL database to a React front-end, and all the code is on my github (github.com/whotch).
+If you made it to this website, you either know me personally or share an interest in this silly stuff.
+Hopefully both! Enjoy!
