@@ -1,0 +1,2670 @@
+id,ep_id,char_name,line_count
+1,1,Ted Mosby,91
+2,1,Barney Stinson,47
+3,1,Marshall Eriksen,43
+4,1,Robin Scherbatsky,37
+5,1,Lily Aldrin,24
+6,1,Ranjit Singh,5
+7,1,Yasmin,5
+8,1,Luke Mosby,3
+9,1,Penny Mosby,3
+10,1,Taxi Driver (S1E1),2
+11,1,Carl MacLaren,1
+12,1,Producer (S1E1),1
+13,1,Dumped Friend,1
+14,1,Waiter (S1E1),1
+15,2,Ted Mosby,100
+16,2,Robin Scherbatsky,48
+17,2,Barney Stinson,37
+18,2,Lily Aldrin,25
+19,2,Marshall Eriksen,23
+20,2,Works-with-Carlos Girl,10
+21,2,Luke Mosby,2
+22,2,Penny Mosby,2
+23,2,Carlos,2
+24,2,Engineer,1
+25,2,Leroy,1
+26,2,Foxy Young Thing,1
+27,3,Ted Mosby,68
+28,3,Barney Stinson,59
+29,3,Lily Aldrin,32
+30,3,Marshall Eriksen,28
+31,3,Robin Scherbatsky,20
+32,3,Officer McNeil,9
+33,3,Laura,8
+34,3,Gay Guy (S1E3),6
+35,3,Dana,5
+36,3,Carl MacLaren,2
+37,3,Luke Mosby,2
+38,3,Penny Mosby,2
+39,3,Tatiana,2
+40,3,Guy #2 (S1E3),2
+41,3,Sascha,2
+42,3,Girl (S1E3),2
+43,3,Guy (S1E3),1
+44,3,Flight Attendant (S1E3),1
+45,3,Guy #3,1
+46,3,Baggage Inspector,1
+47,3,Leonard,1
+48,4,Ted Mosby,87
+49,4,Lily Aldrin,43
+50,4,Robin Scherbatsky,30
+51,4,Barney Stinson,29
+52,4,Natalie,26
+53,4,Marshall Eriksen,23
+54,4,Joel Adams,7
+55,4,Henry,5
+56,4,Luke Mosby,2
+57,4,Steph (S1E4),2
+58,4,Penny Mosby,1
+59,4,Wendy the Waitress,1
+60,4,Producer (S1E1),1
+61,4,Jackie (S1E4),1
+62,4,Natalie's Friend,1
+63,4,Guy #1 (S1E4),1
+64,4,Guy #2 (S1E4),1
+65,5,Ted Mosby,67
+66,5,Marshall Eriksen,31
+67,5,Robin Scherbatsky,29
+68,5,Barney Stinson,29
+69,5,Lily Aldrin,26
+70,5,Coat Check Girl,12
+71,5,Bradley,6
+72,5,Chris,5
+73,5,Phil (S1E5),5
+74,5,Claire (S1E5),3
+75,5,Kelly (S1E5),3
+76,5,Bartender (S1E5),3
+77,5,Austin,2
+78,5,Vinny,2
+79,5,Leslie,2
+80,5,Luke Mosby,1
+81,5,Penny Mosby,1
+82,5,Daniel,1
+83,6,Ted Mosby,61
+84,6,Robin Scherbatsky,55
+85,6,Lily Aldrin,45
+86,6,Barney Stinson,43
+87,6,Marshall Eriksen,36
+88,6,Mike (S1E6),19
+89,6,Hula Girl,9
+90,6,Carl MacLaren,2
+91,6,Angel Guy,2
+92,6,Party-goer,1
+93,6,Luke Mosby,0
+94,6,Penny Mosby,0
+95,7,Ted Mosby,73
+96,7,Marshall Eriksen,35
+97,7,Ellen Pierce,32
+98,7,Barney Stinson,30
+99,7,Lily Aldrin,28
+100,7,Sarah O'Brien,23
+101,7,Robin Scherbatsky,21
+102,7,Sudeep,3
+103,7,Luke Mosby,1
+104,7,Penny Mosby,1
+105,7,Carl MacLaren,0
+106,8,Ted Mosby,75
+107,8,Marshall Eriksen,64
+108,8,Robin Scherbatsky,37
+109,8,Lily Aldrin,34
+110,8,Barney Stinson,30
+111,8,Chinese Waitress,7
+112,8,Kevin (S1E8),6
+113,8,Penny Mosby,1
+114,8,Mr. Matson,1
+115,8,Katie,1
+116,8,Delivery Man,1
+117,8,Woman (S1E8),1
+118,8,Jackie (S1E8),1
+119,8,Nurse (S1E8),1
+120,8,Luke Mosby,0
+121,9,Ted Mosby,63
+122,9,Lily Aldrin,50
+123,9,Marshall Eriksen,34
+124,9,Barney Stinson,28
+125,9,Robin Scherbatsky,27
+126,9,Judy Eriksen,11
+127,9,Marvin Eriksen Sr.,10
+128,9,Kendall,8
+129,9,Amanda (S1E9),8
+130,9,Clerk (S1E9),5
+131,9,Stripper (S1E9),4
+132,9,Pete (S1E9),3
+133,9,Marcus Eriksen,2
+134,9,Ashley Eriksen,2
+135,9,Walter (S1E9),2
+136,9,Marvin Eriksen Jr.,2
+137,9,Luke Mosby,1
+138,9,Penny Mosby,1
+139,10,Ted Mosby,115
+140,10,Barney Stinson,49
+141,10,Marshall Eriksen,40
+142,10,Lily Aldrin,34
+143,10,Robin Scherbatsky,29
+144,10,Trudy,18
+145,10,Carl MacLaren,12
+146,10,Jane,2
+147,11,Ted Mosby,88
+148,11,Lily Aldrin,50
+149,11,Barney Stinson,49
+150,11,Robin Scherbatsky,35
+151,11,Marshall Eriksen,31
+152,11,Ranjit Singh,19
+153,11,Not Moby,16
+154,11,Mary Beth,8
+155,11,Natalya,4
+156,11,Derek,3
+157,11,Luke Mosby,0
+158,11,Penny Mosby,0
+159,12,Ted Mosby,89
+160,12,Lily Aldrin,46
+161,12,Marshall Eriksen,32
+162,12,Barney Stinson,31
+163,12,Claudia Grice,31
+164,12,Stuart Bowers,19
+165,12,Robin Scherbatsky,18
+166,12,Victoria,0
+167,13,Ted Mosby,76
+168,13,Victoria,38
+169,13,Lily Aldrin,31
+170,13,Robin Scherbatsky,21
+171,13,Barney Stinson,20
+172,13,Marshall Eriksen,17
+173,13,Claudia Grice,11
+174,13,Stuart Bowers,3
+175,13,Tanya,2
+176,13,Masseuse,1
+177,14,Marshall Eriksen,55
+178,14,Lily Aldrin,54
+179,14,Robin Scherbatsky,49
+180,14,Barney Stinson,48
+181,14,Ted Mosby,24
+182,14,Victoria,17
+183,14,Ava,3
+184,14,Dumped Friend,1
+185,15,Barney Stinson,57
+186,15,Marshall Eriksen,38
+187,15,Lily Aldrin,35
+188,15,Ted Mosby,31
+189,15,Robin Scherbatsky,16
+190,15,Shannon,14
+191,15,Victoria,10
+192,15,Greg Fisher,7
+193,15,Ranjit Singh,2
+194,15,Screaming Boy,1
+195,15,Judy Eriksen,0
+196,16,Victoria,67
+197,16,Ted Mosby,57
+198,16,Robin Scherbatsky,35
+199,16,Marshall Eriksen,29
+200,16,Lily Aldrin,29
+201,16,Barney Stinson,22
+202,16,Bridal Shop Lady,4
+203,16,Sergei,1
+204,17,Marshall Eriksen,75
+205,17,Ted Mosby,47
+206,17,Barney Stinson,33
+207,17,Lily Aldrin,28
+208,17,Robin Scherbatsky,20
+209,17,Bilson,18
+210,17,Gary Blauman,10
+211,17,Aurelia Birnholz-Vazquez,3
+212,17,Karaoke MC,1
+213,18,Ted Mosby,81
+214,18,Robin Scherbatsky,50
+215,18,Marshall Eriksen,23
+216,18,Barney Stinson,21
+217,18,Lily Aldrin,21
+218,18,Victoria,20
+219,18,Sandy Rivers,6
+220,18,Korean Elvis,6
+221,18,Little Girl (S1E18),4
+222,18,Taxi Driver #1,3
+223,18,Taxi Driver #2,2
+224,18,Little Boy,1
+225,18,Producer (S1E18),1
+226,19,Ted Mosby,88
+227,19,Barney Stinson,44
+228,19,Marshall Eriksen,41
+229,19,Mary the Paralegal,31
+230,19,Robin Scherbatsky,28
+231,19,Lily Aldrin,26
+232,19,Sandy Rivers,8
+233,19,Vampire Lou,3
+234,19,Announcer,1
+235,20,Lily Aldrin,64
+236,20,Marshall Eriksen,47
+237,20,Ted Mosby,39
+238,20,Robin Scherbatsky,33
+239,20,Barney Stinson,27
+240,20,Scooter,8
+241,20,Andrew,8
+242,20,Sean,6
+243,20,Principal,3
+244,20,The 88 Frontman,3
+245,20,Don,2
+246,20,Todd Epstein,1
+247,20,Ray,1
+248,21,Ted Mosby,101
+249,21,Marshall Eriksen,44
+250,21,Barney Stinson,40
+251,21,Lily Aldrin,39
+252,21,Robin Scherbatsky,28
+253,21,Woman (S1E21),7
+254,21,Bob Rorschach,6
+255,21,Wendy the Waitress,5
+256,21,Tracy,3
+257,22,Ted Mosby,70
+258,22,Robin Scherbatsky,46
+259,22,Barney Stinson,30
+260,22,Lily Aldrin,29
+261,22,Marshall Eriksen,24
+262,22,Penelope,16
+263,22,Sandy Rivers,11
+264,22,Vet,4
+265,22,Quartet Leader,3
+266,22,Vampire Lou,2
+267,22,Producer (S2E22),2
+268,22,Janet Kagan,1
+269,23,Ted Mosby,74
+270,23,Marshall Eriksen,52
+271,23,Robin Scherbatsky,37
+272,23,Barney Stinson,23
+273,23,Lily Aldrin,7
+274,23,George Clinton,5
+275,23,Penny Mosby,1
+276,23,Luke Mosby,1
+277,23,Strip Club Announcer,1
+278,23,Yankee Announcer,1
+279,23,Stripper (S2E1),1
+280,23,Joey Adalian,1
+281,24,Marshall Eriksen,58
+282,24,Barney Stinson,56
+283,24,Ted Mosby,41
+284,24,Lily Aldrin,31
+285,24,Robin Scherbatsky,24
+286,24,Jenny,6
+287,24,Waiter (S2E2),3
+288,24,Art Professor,2
+289,24,Amy (S2E2),2
+290,24,Jesse,2
+291,24,Woman (S2E2),1
+292,24,Mike (S2E2),1
+293,24,Paula (S2E2),1
+294,24,Dan,1
+295,24,Crazy Guy,1
+296,25,Ted Mosby,74
+297,25,Virginia Mosby,47
+298,25,Alfred Mosby,37
+299,25,Barney Stinson,36
+300,25,Marshall Eriksen,32
+301,25,Lily Aldrin,31
+302,25,Robin Scherbatsky,29
+303,25,Waitress (S2E3),4
+304,25,Wendy the Waitress,2
+305,26,Robin Scherbatsky,62
+306,26,Ted Mosby,52
+307,26,Lily Aldrin,30
+308,26,Barney Stinson,28
+309,26,Marshall Eriksen,22
+310,26,Anna (S2E4),21
+311,26,Vinny,9
+312,26,Brad Morris,6
+313,26,Kara,4
+314,26,Carl MacLaren,3
+315,26,Paula (S2E4),3
+316,26,Chet,2
+317,27,Barney Stinson,53
+318,27,Marshall Eriksen,52
+319,27,Lily Aldrin,44
+320,27,Ted Mosby,38
+321,27,Brad Morris,24
+322,27,Robin Scherbatsky,15
+323,27,Dawn,8
+324,27,Kara,3
+325,27,Popover Pantry Host,2
+326,27,Girl (S2E5),2
+327,28,Ted Mosby,72
+328,28,Lily Aldrin,51
+329,28,Hammond Druthers,32
+330,28,Barney Stinson,31
+331,28,Marshall Eriksen,21
+332,28,Robin Scherbatsky,17
+333,28,Professor Lewis,12
+334,28,Bank President,3
+335,28,Office Worker,1
+336,29,Ted Mosby,54
+337,29,Marshall Eriksen,52
+338,29,Lily Aldrin,50
+339,29,Barney Stinson,36
+340,29,Robin Scherbatsky,33
+341,29,Chloe,25
+342,29,Carl MacLaren,4
+343,29,Scott (S2E7),4
+344,29,Lauren,3
+345,29,Wendy the Waitress,2
+346,29,Customer,1
+347,29,Janine,1
+348,29,Woman (S2E7),1
+349,29,Radio DJ,1
+350,30,Marshall Eriksen,70
+351,30,Lily Aldrin,68
+352,30,Ted Mosby,57
+353,30,Barney Stinson,36
+354,30,Robin Scherbatsky,30
+355,30,Ship Captain,10
+356,30,Wedding Chapel Receptionist,9
+357,30,Registrar,6
+358,30,Judge,5
+359,30,Chinese Businessman #2,4
+360,30,Chinese Businessman #3,3
+361,30,Producer (S1E1),2
+362,30,Mike the Cameraman,1
+363,30,Chinese Businessman,1
+364,30,Old Woman (S2E8),1
+365,31,Ted Mosby,91
+366,31,Robin Scherbatsky,80
+367,31,Barney Stinson,54
+368,31,Marshall Eriksen,44
+369,31,Lily Aldrin,37
+370,31,Girl #1 (S2E9),1
+371,31,Girl #2 (S2E9),1
+372,31,Girl #3 (S2E9),1
+373,31,Priest (S2E9),1
+374,31,Robot,1
+375,32,Barney Stinson,66
+376,32,James Stinson,54
+377,32,Ted Mosby,41
+378,32,Marshall Eriksen,36
+379,32,Lily Aldrin,28
+380,32,Robin Scherbatsky,25
+381,32,Loretta Stinson,4
+382,32,Gay Guy #2,4
+383,32,Gay Ken,3
+384,32,Girl #2 (S2E10),2
+385,32,Gay Guy #3,2
+386,32,Charles,2
+387,32,Girl #1 (S2E10),1
+388,32,Not Hot Guy,1
+389,32,Man (S2E10),1
+390,32,Gay Guy (S2E10),1
+391,32,Woman (S2E10),1
+392,33,Ted Mosby,89
+393,33,Lily Aldrin,40
+394,33,Marshall Eriksen,34
+395,33,Barney Stinson,27
+396,33,Robin Scherbatsky,25
+397,33,Stacy's Son,6
+398,33,Charity,5
+399,33,WPD Driver,4
+400,33,Virginia Mosby,3
+401,33,Stacy,3
+402,33,Clint,2
+403,33,WPD Worker,2
+404,33,Alfred Mosby,1
+405,33,Woman (S2E11),1
+406,33,Lily's Super,1
+407,34,Ted Mosby,78
+408,34,Robin Scherbatsky,77
+409,34,Lily Aldrin,38
+410,34,Marshall Eriksen,31
+411,34,Katie Scherbatsky,28
+412,34,Barney Stinson,26
+413,34,Molly,11
+414,34,Brian (S2E12),5
+415,34,Kyle (S2E12),4
+416,34,Stranger,3
+417,34,Penny Mosby,2
+418,34,Luke Mosby,1
+419,35,Ted Mosby,74
+420,35,Barney Stinson,40
+421,35,Hammond Druthers,36
+422,35,Marshall Eriksen,34
+423,35,Lily Aldrin,32
+424,35,Robin Scherbatsky,17
+425,35,Carl MacLaren,7
+426,35,Managing Partner,3
+427,35,Office Worker,2
+428,35,Office Worker #2,2
+429,35,Man (S2E13),2
+430,35,Kindergartner,1
+431,36,Ted Mosby,53
+432,36,Marshall Eriksen,39
+433,36,Barney Stinson,39
+434,36,Robin Scherbatsky,30
+435,36,Lily Aldrin,27
+436,36,Doug,15
+437,36,Kevin (S2E14),8
+438,36,Producer (S1E1),4
+439,36,Wendy the Waitress,3
+440,36,Emmitt Smith,3
+441,36,Carl MacLaren,2
+442,36,Sid,2
+443,36,Pool Player #1,2
+444,36,Pool Player #2,2
+445,36,Trish Sanchez,2
+446,36,Mike the Cameraman,1
+447,36,Vampire Lou,1
+448,36,Man #1 (S2E14),1
+449,36,Man #2 (S2E14),1
+450,36,Bartender (S2E14),1
+451,36,Penny Mosby,0
+452,36,Luke Mosby,0
+453,37,Ted Mosby,62
+454,37,Robin Scherbatsky,51
+455,37,Marshall Eriksen,26
+456,37,Lily Aldrin,25
+457,37,Barney Stinson,24
+458,37,Phyllis,11
+459,37,Fred (S2E15),8
+460,37,Pregnant Lady,1
+461,37,Old Lady (S2E15),1
+462,37,Cop (S2E15),1
+463,37,Car Alarm Guy,1
+464,37,Penny Mosby,0
+465,37,Luke Mosby,0
+466,38,Ted Mosby,81
+467,38,Robin Scherbatsky,66
+468,38,Barney Stinson,39
+469,38,Lily Aldrin,31
+470,38,Marshall Eriksen,21
+471,38,Director (S2E16),2
+472,38,Ex-Boyfriend #1,2
+473,38,Jeannie Radford,1
+474,38,Alison Moses,1
+475,38,Lauren Stein,1
+476,38,Actor,1
+477,38,Actress,1
+478,38,Ex-Boyfriend #2,1
+479,39,Ted Mosby,85
+480,39,Marshall Eriksen,70
+481,39,Barney Stinson,37
+482,39,Lily Aldrin,24
+483,39,Robin Scherbatsky,20
+484,39,Marcus Eriksen,3
+485,39,Mechanic,3
+486,39,Marvin Eriksen Jr.,2
+487,39,Drive-Thru Attendant,2
+488,39,Man (S2E17),1
+489,40,Ted Mosby,59
+490,40,Barney Stinson,53
+491,40,Marshall Eriksen,30
+492,40,Lily Aldrin,29
+493,40,Robin Scherbatsky,27
+494,40,Sara,5
+495,40,Girl #2 (S2E18),3
+496,40,Girl #4 (S2E18),3
+497,40,Girl #3 (S2E18),2
+498,40,Girl #1 (S2E18),1
+499,41,Barney Stinson,60
+500,41,Ted Mosby,50
+501,41,Marshall Eriksen,33
+502,41,Lily Aldrin,27
+503,41,Robin Scherbatsky,22
+504,41,Stuart Bowers,11
+505,41,Treasure,11
+506,41,Janice Aldrin,9
+507,41,Brad Morris,8
+508,41,Grandma Lois,6
+509,41,Cousin Margaret,4
+510,41,Aunt Florence,4
+511,41,Stripper (S2E19),2
+512,41,Radio Announcer,1
+513,42,Barney Stinson,61
+514,42,Ted Mosby,56
+515,42,Marshall Eriksen,54
+516,42,Lily Aldrin,47
+517,42,Robin Scherbatsky,28
+518,42,Bob Barker,28
+519,42,Rich Fields,3
+520,42,Loretta Stinson,1
+521,42,Millie,1
+522,43,Lily Aldrin,51
+523,43,Marshall Eriksen,43
+524,43,Barney Stinson,43
+525,43,Ted Mosby,38
+526,43,Robin Scherbatsky,28
+527,43,Andrea,8
+528,43,Brad Morris,7
+529,43,Bartender (S2E21),7
+530,43,Scooter,7
+531,43,Uncle Ben,7
+532,43,Woman (S2E21),3
+533,43,Amy (S2E21),2
+534,43,Janice Aldrin,1
+535,43,Gardener,1
+536,44,Ted Mosby,82
+537,44,Robin Scherbatsky,70
+538,44,Barney Stinson,44
+539,44,Marshall Eriksen,28
+540,44,Lily Aldrin,26
+541,44,Weinerburger Cashier,5
+542,44,Grandma Lois,3
+543,44,Videographer,3
+544,44,Waiter (S1E1),3
+545,44,Wedding DJ,2
+546,44,Waiter (S2E22),2
+547,44,Boy (S2E22),2
+548,44,Ranjit Singh,2
+549,44,Wedding Guest,1
+550,44,Proposal Man,1
+551,44,Mike the Cameraman,0
+552,45,Ted Mosby,63
+553,45,Barney Stinson,45
+554,45,Marshall Eriksen,28
+555,45,Gael,21
+556,45,Lily Aldrin,20
+557,45,Robin Scherbatsky,19
+558,45,Amy (S3E1),18
+559,45,Lydia,2
+560,45,Tyler,1
+561,45,Luke Mosby,0
+562,45,Penny Mosby,0
+563,46,Ted Mosby,43
+564,46,Barney Stinson,43
+565,46,Robin Scherbatsky,35
+566,46,Marshall Eriksen,31
+567,46,Lily Aldrin,30
+568,46,Colleen,13
+569,46,Gael,9
+570,46,Lindsay,9
+571,46,Australian Backpacker #1,2
+572,46,Australian Backpacker #2,2
+573,46,Australian Backpacker #3,1
+574,46,Australian Backpacker #4,1
+575,46,Australian Backpacker #5,1
+576,46,Australian Backpacker #6,1
+577,46,Cop (S3E2),1
+578,47,Ted Mosby,88
+579,47,Barney Stinson,51
+580,47,Lily Aldrin,35
+581,47,Trudy,27
+582,47,Marshall Eriksen,26
+583,47,Rachel (S3E3),26
+584,47,Robin Scherbatsky,18
+585,47,Waitress (S3E3),9
+586,47,Dr. Ian,8
+587,47,Girl #1 (S3E3),3
+588,47,Girl #2 (S3E3),2
+589,47,Luke Mosby,0
+590,47,Penny Mosby,0
+591,48,Ted Mosby,59
+592,48,Robin Scherbatsky,55
+593,48,Barney Stinson,55
+594,48,Marshall Eriksen,29
+595,48,Lily Aldrin,23
+596,48,Doug,20
+597,48,Stacey Gusar,11
+598,48,George (S3E4),5
+599,48,Katie Scherbatsky,1
+600,48,Brooke,1
+601,49,Ted Mosby,83
+602,49,Marshall Eriksen,38
+603,49,Barney Stinson,38
+604,49,Blah Blah,34
+605,49,Lily Aldrin,32
+606,49,Robin Scherbatsky,12
+607,49,Audrey,3
+608,49,Alexa Leskeys,3
+609,49,Student,1
+610,50,Marshall Eriksen,51
+611,50,Ted Mosby,50
+612,50,Lily Aldrin,36
+613,50,Barney Stinson,33
+614,50,Robin Scherbatsky,28
+615,50,Jefferson Coatsworth,25
+616,50,Steve Biel,11
+617,50,Leonard Ross,4
+618,50,Wendy the Waitress,2
+619,50,Doctor (S3E6),1
+620,50,Clerk (S3E6),1
+621,50,Walk of Shame Woman,1
+622,50,Porn Actress,1
+623,51,Ted Mosby,60
+624,51,Marshall Eriksen,57
+625,51,Lily Aldrin,47
+626,51,Barney Stinson,42
+627,51,Robin Scherbatsky,33
+628,51,Crazy Meg,10
+629,51,Mortgage Broker,8
+630,51,Margaret (S3E7),7
+631,51,Wendy the Waitress,4
+632,51,Cab Driver (S3E7),3
+633,51,Persephone,1
+634,51,Daphne (S3E7),1
+635,51,Luke Mosby,0
+636,51,Penny Mosby,0
+637,52,Marshall Eriksen,63
+638,52,Ted Mosby,61
+639,52,Robin Scherbatsky,36
+640,52,Barney Stinson,36
+641,52,Lily Aldrin,26
+642,52,Cathy,18
+643,52,Proctor,5
+644,52,Test Taker,1
+645,52,Luke Mosby,0
+646,52,Penny Mosby,0
+647,53,Ted Mosby,88
+648,53,Robin Scherbatsky,74
+649,53,Barney Stinson,52
+650,53,Marshall Eriksen,49
+651,53,Lily Aldrin,40
+652,53,Bob,8
+653,54,Barney Stinson,67
+654,54,Ted Mosby,33
+655,54,Rhonda French,33
+656,54,Marshall Eriksen,28
+657,54,Lily Aldrin,20
+658,54,Robin Scherbatsky,13
+659,54,Trish (S3E10),13
+660,54,James Stinson,10
+661,54,Heidi Klum,6
+662,54,Alessandra Ambrosio,3
+663,54,Selita Ebanks,2
+664,54,Becky (S3E10),1
+665,54,Max (S3E10),1
+666,54,Marisa Miller,1
+667,54,Adriana Lima,1
+668,54,Miranda Kerr,1
+669,54,Luke Mosby,0
+670,54,Penny Mosby,0
+671,55,Barney Stinson,70
+672,55,Ted Mosby,49
+673,55,Marshall Eriksen,40
+674,55,Robin Scherbatsky,37
+675,55,Lily Aldrin,37
+676,55,Wendy the Waitress,13
+677,55,"Curt ""The Ironman"" Irons",11
+678,55,Laura Girard,7
+679,55,Michael Girard,6
+680,56,Ted Mosby,89
+681,56,Marshall Eriksen,48
+682,56,Barney Stinson,43
+683,56,Lily Aldrin,29
+684,56,Robin Scherbatsky,18
+685,56,Ashlee,10
+686,56,Bartender #2,5
+687,56,Bouncer,4
+688,56,Garrido Girl,2
+689,56,Rick Garrido,2
+690,56,Mary,1
+691,56,Stephanie,1
+692,56,Bartender #1,1
+693,56,Woman in Low Point,1
+694,56,Luke Mosby,0
+695,56,Penny Mosby,0
+696,57,Ted Mosby,113
+697,57,Stella Zinman,76
+698,57,Barney Stinson,37
+699,57,Abby,23
+700,57,Marshall Eriksen,13
+701,57,Lily Aldrin,10
+702,57,Robin Scherbatsky,7
+703,57,Wendy the Waitress,4
+704,57,Gloria,4
+705,57,Brenda,4
+706,57,Ranjit Singh,3
+707,57,Kourtney,3
+708,57,Old Man (S3E13),1
+709,58,Barney Stinson,86
+710,58,Lily Aldrin,41
+711,58,Ted Mosby,28
+712,58,Robin Scherbatsky,27
+713,58,Marshall Eriksen,22
+714,58,Crazy Meg,5
+715,58,Holly (S3E14),4
+716,58,Mark,3
+717,58,Pet Store Girl,2
+718,58,Janitor,2
+719,58,Anna (S2E4),2
+720,58,Abby,1
+721,58,Museum Girl,1
+722,58,Kate,1
+723,58,Guy (S3E14),1
+724,58,Girl (S3E14),1
+725,59,Marshall Eriksen,90
+726,59,Barney Stinson,49
+727,59,Ted Mosby,40
+728,59,Lily Aldrin,29
+729,59,Arthur Hobbs,24
+730,59,Robin Scherbatsky,20
+731,59,Ferguson,9
+732,59,Waiter (S3E15),6
+733,59,Gary Blauman,3
+734,59,Bilson,2
+735,59,Luke Mosby,0
+736,59,Penny Mosby,0
+737,60,Robin Scherbatsky,86
+738,60,Ted Mosby,44
+739,60,Lily Aldrin,34
+740,60,Barney Stinson,32
+741,60,Simon Tremblay,31
+742,60,Marshall Eriksen,23
+743,60,Michelle,8
+744,60,"Adam ""Punchy"" Punciarello",4
+745,60,Tiffany (S3E16),2
+746,60,Luke Mosby,0
+747,60,Penny Mosby,0
+748,60,Alan Thicke,0
+749,61,Barney Stinson,73
+750,61,Ted Mosby,57
+751,61,Marshall Eriksen,36
+752,61,Robin Scherbatsky,35
+753,61,Lily Aldrin,19
+754,61,Ranjit Singh,4
+755,61,Benjamin Franklin,4
+756,61,George Washington,4
+757,61,Farmer Frank,3
+758,61,Woman (S3E17),3
+759,61,Little Girl (S3E17),2
+760,61,Woman #2 (S3E17),2
+761,61,Luke Mosby,0
+762,61,Penny Mosby,0
+763,62,Ted Mosby,57
+764,62,Barney Stinson,44
+765,62,Stella Zinman,41
+766,62,Randy Wharmpess,30
+767,62,Robin Scherbatsky,18
+768,62,Marshall Eriksen,15
+769,62,Lily Aldrin,13
+770,62,Girl #2 (S3E18),3
+771,62,Pete (S3E18),2
+772,62,Stapleton,2
+773,62,Crazy Willie,2
+774,62,Haley,2
+775,62,Girl (S3E18),2
+776,62,Luke Mosby,0
+777,62,Penny Mosby,0
+778,62,Lucy Zinman,0
+779,63,Lily Aldrin,61
+780,63,Barney Stinson,42
+781,63,Marshall Eriksen,41
+782,63,Ted Mosby,35
+783,63,Abby,31
+784,63,Robin Scherbatsky,13
+785,63,Lawrence,10
+786,63,Dr. Greer,6
+787,63,Crazy Sock Guy,4
+788,63,Gallery Patron,2
+789,63,Pet Store Girl,1
+790,63,Blonde,1
+791,63,Guy (S3E19),1
+792,63,Walter (S3E19),1
+793,64,Ted Mosby,56
+794,64,Marshall Eriksen,52
+795,64,Lily Aldrin,28
+796,64,Robin Scherbatsky,27
+797,64,Barney Stinson,26
+798,64,Stella Zinman,25
+799,64,Bill,5
+800,64,Bob Hewitt,4
+801,64,Nurse (S3E20),2
+802,64,Customs Worker #1,2
+803,64,Korean General,1
+804,64,Customs Worker #2,1
+805,65,Barney Stinson,58
+806,65,Ted Mosby,56
+807,65,Stella Zinman,32
+808,65,Marshall Eriksen,31
+809,65,Lily Aldrin,30
+810,65,Robin Scherbatsky,24
+811,65,April,4
+812,65,Mark Johnson,1
+813,65,Girl (S4E1),1
+814,65,Bartender (S4E1),1
+815,65,Luke Mosby,0
+816,65,Penny Mosby,0
+817,66,Marshall Eriksen,66
+818,66,Ted Mosby,47
+819,66,Barney Stinson,37
+820,66,Robin Scherbatsky,33
+821,66,Lily Aldrin,31
+822,66,Regis Philbin,13
+823,66,Wendy the Waitress,5
+824,66,Waitress (S4E2),4
+825,66,Strip Club Guy,3
+826,66,Guy (S4E2),3
+827,67,Ted Mosby,72
+828,67,Barney Stinson,37
+829,67,Robin Scherbatsky,33
+830,67,Stella Zinman,30
+831,67,Lily Aldrin,29
+832,67,Marshall Eriksen,24
+833,67,Lucy Zinman,4
+834,67,Joel Adams,3
+835,67,Girl from Couple,3
+836,67,Matisse,2
+837,67,Guy from Couple,2
+838,67,Robin's Agent,1
+839,67,Brian (S4E3),1
+840,68,Ted Mosby,69
+841,68,Marshall Eriksen,48
+842,68,Barney Stinson,38
+843,68,Robin Scherbatsky,37
+844,68,Lily Aldrin,33
+845,68,Cindy (S4E4),8
+846,68,Stuart Bowers,3
+847,68,Wendy the Waitress,2
+848,68,Woman (S4E4),2
+849,68,Intervention Leader,1
+850,68,Claudia Grice,1
+851,68,Mrs. Abergast,1
+852,68,Gilbert Abergast,1
+853,68,French Girl,1
+854,68,Girl (S4E4),1
+855,69,Ted Mosby,71
+856,69,Stella Zinman,33
+857,69,Robin Scherbatsky,29
+858,69,Barney Stinson,29
+859,69,Lily Aldrin,22
+860,69,Tony Grafanello,14
+861,69,Marshall Eriksen,13
+862,69,Nora Zinman,12
+863,69,Juice Bartender,3
+864,69,Lucy Zinman,1
+865,69,Japanese Host,1
+866,69,Wedding Announcer,1
+867,69,Desk Clerk,1
+868,69,Luke Mosby,0
+869,69,Penny Mosby,0
+870,70,Ted Mosby,64
+871,70,Lily Aldrin,39
+872,70,Robin Scherbatsky,35
+873,70,Marshall Eriksen,33
+874,70,Barney Stinson,33
+875,70,Stella Zinman,6
+876,70,Waiter (S4E6),5
+877,70,Robin Scherbatsky Sr.,5
+878,70,Tony Grafanello,2
+879,70,Michael Sasser,2
+880,70,Becca DeLucci,2
+881,70,Kyle (S4E6),2
+882,70,Lucy Zinman,1
+883,70,Waiter #2 (S4E6),1
+884,71,Ted Mosby,53
+885,71,Robin Scherbatsky,45
+886,71,Lily Aldrin,45
+887,71,Marshall Eriksen,36
+888,71,Barney Stinson,26
+889,71,Nolan,7
+890,71,Charlotte,2
+891,71,Recruit,2
+892,71,Lori,1
+893,71,Ted's Cousin,1
+894,71,Mr. Li,1
+895,71,Cab Driver (S4E7),1
+896,72,Barney Stinson,62
+897,72,Ted Mosby,38
+898,72,Marshall Eriksen,30
+899,72,Robin Scherbatsky,29
+900,72,Lily Aldrin,29
+901,72,Jillian,12
+902,72,Sven #1,7
+903,72,Bilson,6
+904,72,Stacey (S4E8),3
+905,72,Sven #3,2
+906,72,Misty,2
+907,72,Crystal,2
+908,72,Sven #2,1
+909,72,Mechanical Bull Operator,1
+910,73,Ted Mosby,61
+911,73,Marshall Eriksen,30
+912,73,Barney Stinson,30
+913,73,Lily Aldrin,27
+914,73,Robin Scherbatsky,25
+915,73,Mitch,22
+916,73,Vicky,11
+917,73,Christina,6
+918,73,Burglar #1,2
+919,73,Burglar #2,1
+920,73,Busboy,1
+921,73,Luke Mosby,0
+922,73,Penny Mosby,0
+923,74,Ted Mosby,78
+924,74,Barney Stinson,49
+925,74,Marshall Eriksen,45
+926,74,Doug Martin,22
+927,74,Lily Aldrin,19
+928,74,Robin Scherbatsky,13
+929,74,Ben,5
+930,74,Andy,4
+931,74,Wendy the Waitress,2
+932,74,Amanda (S4E10),2
+933,74,Guy #1 (S4E10),2
+934,74,Guy #2 (S4E10),2
+935,74,Marcus Eriksen,1
+936,74,Marvin Eriksen Jr.,1
+937,74,Girl (S4E10),1
+938,75,Ted Mosby,49
+939,75,Marshall Eriksen,43
+940,75,Robin Scherbatsky,42
+941,75,Barney Stinson,27
+942,75,Heather Mosby,27
+943,75,Lily Aldrin,20
+944,75,Bud,15
+945,75,George (S4E11),5
+946,75,Glen,4
+947,76,Ted Mosby,69
+948,76,Robin Scherbatsky,54
+949,76,Barney Stinson,54
+950,76,Marshall Eriksen,34
+951,76,Lily Aldrin,18
+952,76,Jill,3
+953,76,Donald,3
+954,76,Bilson,2
+955,76,Tech Store Clerk,2
+956,76,Kim Kardashian,2
+957,76,Ben,1
+958,76,Heidi Montag,1
+959,76,Spencer Pratt,1
+960,76,Kendra Wilkinson,1
+961,76,Contractor,1
+962,76,Construction Worker (S4E12),1
+963,77,Ted Mosby,70
+964,77,Barney Stinson,45
+965,77,Marshall Eriksen,42
+966,77,Lily Aldrin,27
+967,77,Robin Scherbatsky,21
+968,77,Carl MacLaren,8
+969,77,Ranjit Singh,8
+970,77,Amanda (S4E13),6
+971,77,Melissa,5
+972,77,Liquor Store Clerk,4
+973,77,Colin,3
+974,77,Hot Guy,1
+975,77,Old Lady (S4E13),1
+976,77,Hot Girl,1
+977,77,Plane Captain,1
+978,77,Rachel Sondheimer,1
+979,78,Barney Stinson,57
+980,78,Robin Scherbatsky,54
+981,78,Marshall Eriksen,37
+982,78,Ted Mosby,35
+983,78,Lily Aldrin,34
+984,78,Director (S4E14),10
+985,78,Lottery Girl,6
+986,78,Producer (S4E14),6
+987,78,Rochelle Harper,4
+988,78,Dr. Goodman,2
+989,78,Marisela Diaz,1
+990,78,Guy (S4E14),1
+991,78,Herm (S4E14),1
+992,78,Referee,1
+993,79,Barney Stinson,71
+994,79,Lily Aldrin,30
+995,79,Loretta Stinson,29
+996,79,Ted Mosby,23
+997,79,Margaret (S4E15),22
+998,79,Marshall Eriksen,21
+999,79,Robin Scherbatsky,19
+1000,79,Grant,17
+1001,79,Stage Mom,1
+1002,79,Ricky,1
+1003,80,Ted Mosby,52
+1004,80,Marshall Eriksen,52
+1005,80,Lily Aldrin,46
+1006,80,Barney Stinson,42
+1007,80,Robin Scherbatsky,30
+1008,80,Karen,16
+1009,80,Scooter,4
+1010,80,Bilson,3
+1011,80,Wendy the Waitress,3
+1012,80,Gary Blauman,3
+1013,80,Nicole Barsamian,3
+1014,80,"Curt ""The Ironman"" Irons",2
+1015,80,Guy #1 (S4E16),1
+1016,80,Guy #2 (S4E16),1
+1017,80,Jerry,1
+1018,81,Ted Mosby,71
+1019,81,Lily Aldrin,56
+1020,81,Marshall Eriksen,44
+1021,81,Barney Stinson,38
+1022,81,Robin Scherbatsky,35
+1023,81,Karen,18
+1024,81,Hot Girl #1,2
+1025,81,Hot Girl #2,1
+1026,81,Hot Girl #3,1
+1027,82,Marshall Eriksen,65
+1028,82,Ted Mosby,53
+1029,82,Barney Stinson,46
+1030,82,Robin Scherbatsky,34
+1031,82,Lily Aldrin,34
+1032,82,Bilson,11
+1033,82,Louisa Mendoza,3
+1034,82,Crazy Artie Neysmith,3
+1035,82,The Frozen Snowshoe,3
+1036,82,Woman (S4E18),1
+1037,82,Roy,1
+1038,83,Barney Stinson,48
+1039,83,Ted Mosby,42
+1040,83,Marshall Eriksen,35
+1041,83,Robin Scherbatsky,28
+1042,83,Lily Aldrin,23
+1043,83,McCracken,8
+1044,83,Boy (S4E19),2
+1045,83,Marvin Eriksen Sr.,2
+1046,83,Kenny,2
+1047,83,Kid (S4E19),1
+1048,83,Roger Murtaugh,1
+1049,84,Barney Stinson,50
+1050,84,Ted Mosby,48
+1051,84,Marshall Eriksen,48
+1052,84,Robin Scherbatsky,39
+1053,84,PJ,23
+1054,84,Creepy Back Rub Guy,5
+1055,84,Food Guy,4
+1056,84,Toy Guy,4
+1057,84,Lily Aldrin,3
+1058,84,Fantasy Guy,2
+1059,84,Guy #1 (S4E20),1
+1060,84,Guy #2 (S4E20),1
+1061,85,Ted Mosby,53
+1062,85,Marshall Eriksen,50
+1063,85,Barney Stinson,50
+1064,85,Robin Scherbatsky,42
+1065,85,Stan,15
+1066,85,Holli,11
+1067,86,Ted Mosby,71
+1068,86,Barney Stinson,47
+1069,86,Robin Scherbatsky,29
+1070,86,Marshall Eriksen,20
+1071,86,Milt,11
+1072,86,Matthew Panning,9
+1073,86,Ged Wilkinson,1
+1074,86,Galoshes the Weather Clown,1
+1075,86,Girl #1 (S4E22),1
+1076,86,Girl #2 (S4E22),1
+1077,86,Girl #3 (S4E22),1
+1078,86,Pauline,1
+1079,86,Fran,1
+1080,86,Stella Zinman,0
+1081,86,Harlen Johnsen,0
+1082,86,Luke Mosby,0
+1083,86,Penny Mosby,0
+1084,87,Ted Mosby,67
+1085,87,Barney Stinson,36
+1086,87,Stella Zinman,22
+1087,87,Marshall Eriksen,20
+1088,87,Tony Grafanello,20
+1089,87,Robin Scherbatsky,18
+1090,87,Sexy Female Highway Cop,7
+1091,87,Minnesota State Trooper Jorgensen,5
+1092,87,Richard Greenleaf,4
+1093,87,Lily Aldrin,3
+1094,87,Mrs. Matsen,3
+1095,87,Highway Cop #1,2
+1096,87,Highway Cop #2,1
+1097,87,Highway Cop #3,1
+1098,87,Teen Boy,1
+1099,88,Barney Stinson,49
+1100,88,Ted Mosby,48
+1101,88,Lily Aldrin,43
+1102,88,Marshall Eriksen,42
+1103,88,Robin Scherbatsky,37
+1104,88,Tracey,4
+1105,88,Ged Wilkinson,3
+1106,88,Bill,2
+1107,88,Harlen Johnsen,1
+1108,89,Barney Stinson,59
+1109,89,Robin Scherbatsky,51
+1110,89,Ted Mosby,44
+1111,89,Lily Aldrin,33
+1112,89,Marshall Eriksen,25
+1113,89,Brad Morris,13
+1114,89,Guy #2 (S5E1),3
+1115,89,Girl #1 (S5E1),2
+1116,89,Guy #1 (S5E1),2
+1117,89,Girl #2 (S5E1),2
+1118,89,Professor Calzonetti,2
+1119,90,Ted Mosby,71
+1120,90,Jen,57
+1121,90,Barney Stinson,36
+1122,90,Marshall Eriksen,34
+1123,90,Lily Aldrin,22
+1124,90,Robin Scherbatsky,11
+1125,90,Dr. Vikash,2
+1126,90,Jasmine,2
+1127,90,Priest (S5E2),1
+1128,90,Busty Delivery Girl,1
+1129,90,Judy,1
+1130,91,Ted Mosby,69
+1131,91,Robin Scherbatsky,55
+1132,91,Barney Stinson,40
+1133,91,Lily Aldrin,22
+1134,91,Marshall Eriksen,17
+1135,91,Shin-Ya,2
+1136,91,Susan,2
+1137,91,Girl #1 (S5E3),1
+1138,91,Girl #2 (S5E3),1
+1139,91,Girl #3 (S5E3),1
+1140,91,Luke Mosby,0
+1141,91,Penny Mosby,0
+1142,92,Marshall Eriksen,48
+1143,92,Ted Mosby,41
+1144,92,Barney Stinson,40
+1145,92,Lily Aldrin,39
+1146,92,Robin Scherbatsky,34
+1147,92,Girl #1 (S5E4),3
+1148,92,Py,2
+1149,92,Ranjit Singh,1
+1150,92,Man #1 (S5E4),1
+1151,92,Man #2 (S5E4),1
+1152,92,Woman #2 (S5E4),1
+1153,92,Shea,1
+1154,92,Hostess (S5E4),1
+1155,92,Girl #2 (S5E4),1
+1156,93,Ted Mosby,61
+1157,93,Marshall Eriksen,46
+1158,93,Robin Scherbatsky,40
+1159,93,Barney Stinson,36
+1160,93,Lily Aldrin,21
+1161,93,Kenny Rogers,4
+1162,93,Miss Cruickshank,4
+1163,93,Bailey,4
+1164,93,Bruno,2
+1165,94,Barney Stinson,68
+1166,94,Ted Mosby,62
+1167,94,Marshall Eriksen,56
+1168,94,Robin Scherbatsky,41
+1169,94,Lily Aldrin,25
+1170,94,Phil (S5E6),1
+1171,95,Ted Mosby,62
+1172,95,Barney Stinson,54
+1173,95,Marshall Eriksen,52
+1174,95,Lily Aldrin,51
+1175,95,Robin Scherbatsky,47
+1176,95,Alan Thicke,12
+1177,95,Arthur the Pizza Guy,5
+1178,95,Lost in Space Robot,5
+1179,95,Crazy Meg,4
+1180,95,Luke Mosby,0
+1181,95,Penny Mosby,0
+1182,96,Barney Stinson,57
+1183,96,Lily Aldrin,54
+1184,96,Ted Mosby,37
+1185,96,Robin Scherbatsky,30
+1186,96,Marshall Eriksen,28
+1187,96,Shelly (S5E8),19
+1188,96,Claire (S5E8),13
+1189,96,Girl #2 (S5E8),3
+1190,96,Don Frank,2
+1191,96,Girl #1 (S5E8),2
+1192,96,Sorority Girl,1
+1193,96,Girl #3 (S5E8),1
+1194,96,Roberta,1
+1195,96,Girl #4 (S5E8),1
+1196,97,Marshall Eriksen,53
+1197,97,Ted Mosby,48
+1198,97,Lily Aldrin,48
+1199,97,Robin Scherbatsky,33
+1200,97,Barney Stinson,33
+1201,97,Mickey Aldrin,29
+1202,97,Morris Aldrin,3
+1203,97,Mr. Park,3
+1204,97,Judy Eriksen,1
+1205,97,Rita Aldrin,1
+1206,97,Mr. Ossias,1
+1207,97,Whitney,1
+1208,97,Bridesmaid,1
+1209,97,Bodega Customer,1
+1210,97,Marvin Eriksen Sr.,1
+1211,97,Boy (S5E9),1
+1212,97,Marcus Eriksen,0
+1213,97,Marvin Eriksen Jr.,0
+1214,98,Ted Mosby,61
+1215,98,Marshall Eriksen,32
+1216,98,Robin Scherbatsky,26
+1217,98,Maggie Wilks,22
+1218,98,Barney Stinson,21
+1219,98,Lily Aldrin,17
+1220,98,Jim,12
+1221,98,Betty,4
+1222,98,Jamie,4
+1223,98,Mrs. Douglas,4
+1224,98,Louis (S5E10),4
+1225,98,Adam,2
+1226,98,Wendy the Waitress,1
+1227,98,Waiter (S5E10),1
+1228,99,Marshall Eriksen,55
+1229,99,Ted Mosby,53
+1230,99,Robin Scherbatsky,48
+1231,99,Lily Aldrin,25
+1232,99,Barney Stinson,21
+1233,99,Don Frank,20
+1234,99,Arthur Hobbs,11
+1235,99,Mike the Cameraman,5
+1236,99,Luke Mosby,4
+1237,99,Penny Mosby,4
+1238,99,Teen Friend,1
+1239,100,Ted Mosby,54
+1240,100,Barney Stinson,41
+1241,100,Cindy,26
+1242,100,Lily Aldrin,21
+1243,100,Marshall Eriksen,19
+1244,100,Robin Scherbatsky,19
+1245,100,Karina,14
+1246,100,Tim Gunn,4
+1247,100,Carl MacLaren,3
+1248,100,Frat Guy,2
+1249,100,Guy (S5E12),1
+1250,100,Luke Mosby,0
+1251,100,Penny Mosby,0
+1252,101,Ted Mosby,69
+1253,101,Marshall Eriksen,68
+1254,101,Robin Scherbatsky,45
+1255,101,Lily Aldrin,24
+1256,101,Jenkins,22
+1257,101,Barney Stinson,11
+1258,101,Scotty,9
+1259,101,Betty,2
+1260,101,Gary Blauman,2
+1261,101,Novelist,2
+1262,101,8 Year Old Kid,1
+1263,101,Luke Mosby,0
+1264,101,Penny Mosby,0
+1265,102,Ted Mosby,65
+1266,102,Marshall Eriksen,44
+1267,102,Barney Stinson,41
+1268,102,Lily Aldrin,37
+1269,102,Robin Scherbatsky,33
+1270,102,Jim Nantz,22
+1271,102,Cook Pu,4
+1272,102,Christy,4
+1273,102,Wendy the Waitress,3
+1274,102,Danny,3
+1275,102,Nick Swisher,3
+1276,102,Secretary,2
+1277,102,Joanna,2
+1278,102,Mr. Donovan,2
+1279,102,Jamie,1
+1280,102,Luke Mosby,0
+1281,102,Penny Mosby,0
+1282,103,Ted Mosby,69
+1283,103,Marshall Eriksen,46
+1284,103,Robin Scherbatsky,45
+1285,103,Barney Stinson,35
+1286,103,Lily Aldrin,25
+1287,103,Don Frank,14
+1288,103,Ranjit Singh,10
+1289,103,Natalia,5
+1290,103,Waiter (S5E15),3
+1291,103,Jim Nantz,1
+1292,103,Phil Simms,1
+1293,103,Girl (S5E15),1
+1294,104,Ted Mosby,69
+1295,104,Marshall Eriksen,31
+1296,104,Lily Aldrin,30
+1297,104,Robin Scherbatsky,29
+1298,104,Barney Stinson,29
+1299,104,Tiffany (S5E16),29
+1300,104,Henrietta,12
+1301,104,Mike the Cameraman,4
+1302,104,Scooter,3
+1303,104,Lisa Walker,2
+1304,104,Henrietta's Mom,2
+1305,104,Henrietta's Dad,2
+1306,104,Pharma Girl,2
+1307,104,Gladys Reynolds,2
+1308,104,Jack,1
+1309,104,Luke Mosby,0
+1310,104,Penny Mosby,0
+1311,105,Barney Stinson,63
+1312,105,Ted Mosby,41
+1313,105,Robin Scherbatsky,39
+1314,105,Anita Appleby,34
+1315,105,Marshall Eriksen,32
+1316,105,Lily Aldrin,14
+1317,105,Don Frank,7
+1318,105,Mike the Cameraman,3
+1319,105,Officer McKie,3
+1320,106,Lily Aldrin,67
+1321,106,Ted Mosby,59
+1322,106,Marshall Eriksen,56
+1323,106,Robin Scherbatsky,34
+1324,106,Barney Stinson,28
+1325,106,Amanda (S5E18),8
+1326,106,Karen,4
+1327,106,Strawberry,2
+1328,106,Natalie,2
+1329,106,College Guy (S5E18),2
+1330,106,Japanese Woman,1
+1331,106,Japanese Man,1
+1332,106,Girl #1 (S5E18),1
+1333,106,Girl #2 (S5E18),1
+1334,107,Marshall Eriksen,69
+1335,107,Barney Stinson,52
+1336,107,Ted Mosby,48
+1337,107,Robin Scherbatsky,39
+1338,107,Lily Aldrin,25
+1339,107,Sarah,8
+1340,107,Mugger/Zookeeper,8
+1341,107,Lisa (S5E19),6
+1342,107,Mike the Cameraman,4
+1343,107,Arthur the Pizza Guy,2
+1344,107,Doll Guy,2
+1345,107,Mayor McWoof,1
+1346,108,Ted Mosby,58
+1347,108,Barney Stinson,42
+1348,108,Marshall Eriksen,26
+1349,108,Robin Scherbatsky,26
+1350,108,Lily Aldrin,19
+1351,108,Clint,13
+1352,108,Inspector,10
+1353,108,Virginia Mosby,9
+1354,108,Judy Eriksen,1
+1355,108,Wedding Guest #1,1
+1356,108,Wedding Guest #2,1
+1357,108,Wedding Guest #3,1
+1358,108,Wedding Guest #4,1
+1359,108,Aunt Meredith,1
+1360,108,Uncle Larry,1
+1361,108,Luke Mosby,0
+1362,108,Penny Mosby,0
+1363,109,Ted Mosby,78
+1364,109,Barney Stinson,58
+1365,109,Robin Scherbatsky,38
+1366,109,Don Frank,38
+1367,109,Lily Aldrin,26
+1368,109,Marshall Eriksen,25
+1369,109,Carl MacLaren,1
+1370,110,Ted Mosby,56
+1371,110,Barney Stinson,38
+1372,110,Marshall Eriksen,34
+1373,110,Lily Aldrin,34
+1374,110,Marissa Heller,10
+1375,110,Jefferson Van Smoot,7
+1376,110,Robin Scherbatsky,4
+1377,110,Will Shortz,4
+1378,110,Waiter (S5E22),3
+1379,110,Peter Bogdanovich,3
+1380,110,Hannah,1
+1381,110,Professor Hammersmith,1
+1382,110,Arianna Huffington,1
+1383,110,Mexican Wrestler Ted,1
+1384,111,Ted Mosby,74
+1385,111,Marshall Eriksen,29
+1386,111,Robin Scherbatsky,24
+1387,111,Lily Aldrin,21
+1388,111,Royce,20
+1389,111,Barney Stinson,18
+1390,111,Movie Stella,15
+1391,111,Movie Tony,15
+1392,111,Jed Mosley,13
+1393,111,Minister,4
+1394,111,Billy,3
+1395,111,Patricia,3
+1396,111,Bruce,2
+1397,111,Usher,2
+1398,111,Girl (S5E23),1
+1399,112,Marshall Eriksen,50
+1400,112,Ted Mosby,45
+1401,112,Robin Scherbatsky,44
+1402,112,Lily Aldrin,37
+1403,112,Barney Stinson,36
+1404,112,Don Frank,8
+1405,112,Petra,2
+1406,112,Flo,1
+1407,112,Luke Mosby,0
+1408,112,Penny Mosby,0
+1409,113,Ted Mosby,61
+1410,113,Barney Stinson,44
+1411,113,Marshall Eriksen,43
+1412,113,Lily Aldrin,33
+1413,113,Robin Scherbatsky,25
+1414,113,Cindy,9
+1415,113,Marvin Eriksen Sr.,7
+1416,113,Casey,3
+1417,113,Co-Worker #1,1
+1418,113,Co-Worker #2,1
+1419,113,Co-Worker #3,1
+1420,113,Cheesy Guy,1
+1421,113,Luke Mosby,0
+1422,113,Penny Mosby,0
+1423,114,Barney Stinson,45
+1424,114,Ted Mosby,38
+1425,114,James Stinson,31
+1426,114,Robin Scherbatsky,27
+1427,114,Marshall Eriksen,19
+1428,114,Lily Aldrin,16
+1429,114,Loretta Stinson,16
+1430,114,Sam Gibbs,9
+1431,114,Postmaster General,1
+1432,114,Coach,1
+1433,115,Ted Mosby,61
+1434,115,Robin Scherbatsky,50
+1435,115,Marshall Eriksen,34
+1436,115,Lily Aldrin,34
+1437,115,Barney Stinson,31
+1438,115,Karate Boy,4
+1439,115,Rachel (S6E3),2
+1440,115,Chrissy,1
+1441,116,Marshall Eriksen,48
+1442,116,Ted Mosby,40
+1443,116,Barney Stinson,34
+1444,116,Robin Scherbatsky,33
+1445,116,Lily Aldrin,30
+1446,116,Ranjit Singh,11
+1447,116,Lady,5
+1448,116,Maury Povich,3
+1449,116,Human Calculator,3
+1450,116,Becky,2
+1451,116,Max (S6E4),2
+1452,116,Guy on Subway,1
+1453,116,Guy on Bus,1
+1454,116,Waiter (S6E4),1
+1455,116,Medic,1
+1456,117,Ted Mosby,81
+1457,117,Barney Stinson,45
+1458,117,Marshall Eriksen,36
+1459,117,Zoey Pierson,28
+1460,117,Lily Aldrin,27
+1461,117,Robin Scherbatsky,17
+1462,117,Max (S6E4),11
+1463,117,Stoner Guy,3
+1464,117,Wendy the Waitress,2
+1465,117,Drag Queen,1
+1466,117,Trish (S6E5),1
+1467,117,Luke Mosby,0
+1468,117,Penny Mosby,0
+1469,118,Marshall Eriksen,51
+1470,118,Robin Scherbatsky,35
+1471,118,Lily Aldrin,31
+1472,118,Ted Mosby,27
+1473,118,Barney Stinson,22
+1474,118,Becky,10
+1475,118,Marvin Eriksen Sr.,9
+1476,118,Claudia Grice,7
+1477,118,Stuart Bowers,6
+1478,118,Judy Eriksen,4
+1479,118,Marshall's Stripper Daughter,3
+1480,118,Stacey (S6E6),3
+1481,118,Mike the Cameraman,1
+1482,118,Rob,1
+1483,118,Gerrard's Friend,1
+1484,119,Ted Mosby,53
+1485,119,Marshall Eriksen,41
+1486,119,Randy Wharmpess,40
+1487,119,Lily Aldrin,32
+1488,119,Robin Scherbatsky,20
+1489,119,Barney Stinson,20
+1490,119,Zoey Pierson,13
+1491,119,Arthur Hobbs,8
+1492,119,Becky,5
+1493,119,Betty,4
+1494,119,Scotty,2
+1495,119,Mike the Cameraman,1
+1496,120,Ted Mosby,48
+1497,120,Marshall Eriksen,38
+1498,120,Lily Aldrin,33
+1499,120,Barney Stinson,26
+1500,120,Robin Scherbatsky,23
+1501,120,Zoey Pierson,21
+1502,120,The Captain,14
+1503,120,Curtis (S6E8),13
+1504,120,Arthur Hobbs,5
+1505,120,Russell,1
+1506,120,Scooter,0
+1507,121,Robin Scherbatsky,54
+1508,121,Ted Mosby,48
+1509,121,Lily Aldrin,38
+1510,121,Marshall Eriksen,32
+1511,121,"Adam ""Punchy"" Punciarello",30
+1512,121,Barney Stinson,25
+1513,121,Jessica Glitter,15
+1514,121,Alan Thicke,6
+1515,121,Kelly (S6E9),4
+1516,122,Ted Mosby,73
+1517,122,Lily Aldrin,41
+1518,122,Zoey Pierson,39
+1519,122,Barney Stinson,36
+1520,122,The Blitz,36
+1521,122,Marshall Eriksen,35
+1522,122,Robin Scherbatsky,22
+1523,122,Cab Driver (S6E10),3
+1524,122,Carl MacLaren,1
+1525,122,Shower College Girl,1
+1526,122,Babak,1
+1527,122,Woman in Red Dress,1
+1528,122,Luke Mosby,0
+1529,122,Penny Mosby,0
+1530,123,Ted Mosby,56
+1531,123,Marshall Eriksen,42
+1532,123,Lily Aldrin,35
+1533,123,Barney Stinson,33
+1534,123,Robin Scherbatsky,27
+1535,123,The Captain,17
+1536,123,Zoey Pierson,8
+1537,123,Waiter (S6E11),1
+1538,123,Luke Mosby,0
+1539,123,Penny Mosby,0
+1540,124,Ted Mosby,68
+1541,124,Robin Scherbatsky,45
+1542,124,Marshall Eriksen,40
+1543,124,Barney Stinson,39
+1544,124,Lily Aldrin,32
+1545,124,Sam Gibbs,9
+1546,124,Dr. Friedman,5
+1547,124,"Adam ""Punchy"" Punciarello",4
+1548,124,Alex Trebek,3
+1549,124,Jordan,2
+1550,124,Anna (S6E12),1
+1551,124,Girl (S6E12),1
+1552,125,Marshall Eriksen,48
+1553,125,Ted Mosby,39
+1554,125,Robin Scherbatsky,35
+1555,125,Lily Aldrin,29
+1556,125,Barney Stinson,21
+1557,125,John Stangel,18
+1558,125,Sandy Rivers,13
+1559,125,Marvin Eriksen Sr.,11
+1560,125,Judy Eriksen,6
+1561,125,Anna (S6E12),4
+1562,125,Dr. Friedman,3
+1563,125,Man #1 (S6E13),2
+1564,125,Man #2 (S6E13),1
+1565,125,Man #3 (S6E13),1
+1566,125,Man #4 (S6E13),1
+1567,126,Ted Mosby,46
+1568,126,Marshall Eriksen,44
+1569,126,Lily Aldrin,33
+1570,126,Barney Stinson,31
+1571,126,Robin Scherbatsky,27
+1572,126,Judy Eriksen,16
+1573,126,Marvin Eriksen Sr.,10
+1574,126,Trey Platt,4
+1575,126,Marcus Eriksen,3
+1576,126,Marvin Eriksen Jr.,3
+1577,126,Reverend Platt,3
+1578,126,Alfred Mosby,3
+1579,126,Uncle Pete,2
+1580,126,Cousin Daphne,1
+1581,126,Mickey Aldrin,1
+1582,126,Robin Scherbatsky Sr.,1
+1583,126,Luke Mosby,0
+1584,126,Penny Mosby,0
+1585,127,Marshall Eriksen,50
+1586,127,Ted Mosby,46
+1587,127,Barney Stinson,32
+1588,127,Zoey Pierson,32
+1589,127,Honey,26
+1590,127,Robin Scherbatsky,20
+1591,127,Lily Aldrin,15
+1592,127,Marcus Eriksen,8
+1593,127,Judy Eriksen,6
+1594,127,Mrs. Matsen,1
+1595,128,Ted Mosby,46
+1596,128,Barney Stinson,43
+1597,128,Lily Aldrin,31
+1598,128,Robin Scherbatsky,28
+1599,128,Marshall Eriksen,26
+1600,128,Nora,17
+1601,128,Judy Eriksen,13
+1602,128,Zoey Pierson,10
+1603,128,Bev,6
+1604,128,Anna (S6E12),4
+1605,128,Girl (S6E16),3
+1606,128,Marvin Eriksen Sr.,1
+1607,128,Marcus Eriksen,0
+1608,128,Marvin Eriksen Jr.,0
+1609,129,Ted Mosby,51
+1610,129,Barney Stinson,34
+1611,129,Marshall Eriksen,27
+1612,129,Robin Scherbatsky,27
+1613,129,Lily Aldrin,27
+1614,129,The Captain,22
+1615,129,Wendy the Waitress,13
+1616,129,Zoey Pierson,8
+1617,129,Meeker,8
+1618,129,Arthur Hobbs,6
+1619,129,Nora,3
+1620,129,Food Guy,2
+1621,130,Barney Stinson,76
+1622,130,Ted Mosby,47
+1623,130,Marshall Eriksen,37
+1624,130,Lily Aldrin,37
+1625,130,Nora,34
+1626,130,Robin Scherbatsky,31
+1627,130,"Nate ""Scooby"" Scooberman",13
+1628,130,Dr. Kirby,10
+1629,130,Luke Mosby,0
+1630,130,Penny Mosby,0
+1631,131,Barney Stinson,65
+1632,131,Jerry Whittaker,55
+1633,131,Marshall Eriksen,29
+1634,131,Ted Mosby,24
+1635,131,Robin Scherbatsky,21
+1636,131,Lily Aldrin,21
+1637,131,Cheryl Whittaker,6
+1638,131,J.J. Whittaker,5
+1639,131,Scott (S6E19),4
+1640,131,Betty,1
+1641,131,Luke Mosby,0
+1642,131,Penny Mosby,0
+1643,132,Ted Mosby,51
+1644,132,Barney Stinson,39
+1645,132,Lily Aldrin,31
+1646,132,Marshall Eriksen,26
+1647,132,Robin Scherbatsky,25
+1648,132,Zoey Pierson,13
+1649,132,Professor Rodriguez,3
+1650,132,Food Guy,2
+1651,132,Girl (S6E20),2
+1652,132,"Nate ""Scooby"" Scooberman",0
+1653,132,Yuthers,0
+1654,133,Barney Stinson,73
+1655,133,Jerry Whittaker,53
+1656,133,Robin Scherbatsky,38
+1657,133,Ted Mosby,37
+1658,133,Marshall Eriksen,25
+1659,133,Lily Aldrin,20
+1660,133,Nick Podarutti,9
+1661,133,Girl (S6E21),1
+1662,133,Mindy,1
+1663,133,J.J. Whittaker,0
+1664,134,Ted Mosby,45
+1665,134,Lily Aldrin,44
+1666,134,Robin Scherbatsky,38
+1667,134,Marshall Eriksen,32
+1668,134,Barney Stinson,28
+1669,134,Zoey Pierson,19
+1670,134,Arthur Hobbs,5
+1671,134,Carl MacLaren,3
+1672,134,Job Interviewer,3
+1673,134,Woman (S6E22),1
+1674,134,Kent,1
+1675,135,Ted Mosby,54
+1676,135,Barney Stinson,39
+1677,135,Robin Scherbatsky,23
+1678,135,Marshall Eriksen,16
+1679,135,Arthur Hobbs,15
+1680,135,Lily Aldrin,14
+1681,135,Zoey Pierson,12
+1682,135,Mr. Horvath,8
+1683,135,Ninja,1
+1684,135,Virginia Mosby,1
+1685,136,Barney Stinson,48
+1686,136,Ted Mosby,42
+1687,136,Robin Scherbatsky,38
+1688,136,Marshall Eriksen,20
+1689,136,Lily Aldrin,19
+1690,136,Mr. Bloom,7
+1691,136,Rod,5
+1692,136,Zoey Pierson,4
+1693,136,Nora,4
+1694,136,Ranjit Singh,3
+1695,136,Brooklyn Guy,2
+1696,136,Mrs. Berkelheimer,1
+1697,137,Ted Mosby,55
+1698,137,Robin Scherbatsky,44
+1699,137,Barney Stinson,37
+1700,137,Lily Aldrin,33
+1701,137,Marshall Eriksen,30
+1702,137,"Adam ""Punchy"" Punciarello",10
+1703,137,Kelly (S6E9),5
+1704,137,Clay,4
+1705,137,Carl MacLaren,2
+1706,137,Nick,2
+1707,137,Nora,1
+1708,137,Punchy's Dad,1
+1709,137,Kelly's Dad,1
+1710,137,Penny Mosby,0
+1711,137,Luke Mosby,0
+1712,138,Marshall Eriksen,49
+1713,138,Ted Mosby,45
+1714,138,Barney Stinson,28
+1715,138,Lily Aldrin,22
+1716,138,Robin Scherbatsky,17
+1717,138,Pete Durkenson,17
+1718,138,Nora,16
+1719,138,Garrison Cootes,11
+1720,138,Jessica,2
+1721,138,Wesleyan Girl,1
+1722,138,Girl (S7E2),1
+1723,138,Victoria,0
+1724,138,Penny Mosby,0
+1725,138,Luke Mosby,0
+1726,139,Ted Mosby,79
+1727,139,Victoria,54
+1728,139,Barney Stinson,43
+1729,139,Lily Aldrin,36
+1730,139,Marshall Eriksen,35
+1731,139,Robin Scherbatsky,25
+1732,140,Robin Scherbatsky,47
+1733,140,Barney Stinson,33
+1734,140,Ted Mosby,27
+1735,140,Marshall Eriksen,25
+1736,140,Lily Aldrin,21
+1737,140,Kevin Venkataraghavan,21
+1738,140,Nora,10
+1739,140,Dr. Sonya,7
+1740,140,Birthing Class Instructor,6
+1741,140,Kersten,4
+1742,140,Sandy Rivers,3
+1743,140,Patrice,1
+1744,140,Girl (S7E4),1
+1745,140,Woman (S7E4),1
+1746,140,Jeff Probst,1
+1747,141,Ted Mosby,52
+1748,141,Barney Stinson,47
+1749,141,Marshall Eriksen,38
+1750,141,Robin Scherbatsky,28
+1751,141,Kevin Venkataraghavan,19
+1752,141,Lily Aldrin,18
+1753,141,Garrison Cootes,16
+1754,141,Nora,9
+1755,141,Construction Worker (S7E5),2
+1756,141,Gina,2
+1757,141,Will,2
+1758,141,Waitress (S7E5),1
+1759,141,Sheila (S7E5),1
+1760,142,Ted Mosby,65
+1761,142,Robin Scherbatsky,39
+1762,142,Barney Stinson,35
+1763,142,Lily Aldrin,26
+1764,142,Kevin Venkataraghavan,24
+1765,142,Marshall Eriksen,22
+1766,142,Janet McIntyre,21
+1767,142,Robin Scherbatsky Sr.,4
+1768,142,Mia Plumley,1
+1769,142,Paula Vincenzo,1
+1770,142,Waiter (S7E6),1
+1771,143,Ted Mosby,53
+1772,143,Barney Stinson,31
+1773,143,Marshall Eriksen,29
+1774,143,Lily Aldrin,28
+1775,143,Nora,27
+1776,143,Kevin Venkataraghavan,26
+1777,143,Robin Scherbatsky,24
+1778,143,James Stinson,13
+1779,143,Loretta Stinson,10
+1780,143,Mickey Aldrin,8
+1781,143,Marvin Eriksen Sr.,6
+1782,143,Virginia Mosby,3
+1783,143,Girl (S7E7),3
+1784,143,Kevin's Mom,1
+1785,143,Weird Al Yankovic,1
+1786,144,Ted Mosby,60
+1787,144,Barney Stinson,33
+1788,144,Lily Aldrin,33
+1789,144,Marshall Eriksen,32
+1790,144,Robin Scherbatsky,31
+1791,144,Naomi,31
+1792,144,Morris Aldrin,4
+1793,144,Rita Aldrin,2
+1794,144,Waitress (S7E8),1
+1795,144,Penny Mosby,0
+1796,144,Luke Mosby,0
+1797,145,Barney Stinson,62
+1798,145,Ted Mosby,50
+1799,145,Marshall Eriksen,50
+1800,145,Lily Aldrin,41
+1801,145,Robin Scherbatsky,32
+1802,145,Kevin Venkataraghavan,15
+1803,145,Kid (S7E9),5
+1804,145,Maya,5
+1805,145,Man in Fez,2
+1806,145,Yuthers,1
+1807,146,Ted Mosby,56
+1808,146,Marshall Eriksen,42
+1809,146,Robin Scherbatsky,40
+1810,146,Barney Stinson,40
+1811,146,Lily Aldrin,12
+1812,146,Kevin Venkataraghavan,12
+1813,146,Sandy Rivers,7
+1814,146,Nora,5
+1815,146,Goatee Guy,3
+1816,146,Nora's Dad,3
+1817,146,Singer,2
+1818,146,Creepy Guitar Guy,2
+1819,146,Guy (S7E10),2
+1820,146,Erika,1
+1821,146,Nora's Mom,1
+1822,147,Ted Mosby,79
+1823,147,Barney Stinson,65
+1824,147,Marshall Eriksen,32
+1825,147,Lily Aldrin,30
+1826,147,Robin Scherbatsky,28
+1827,147,James Stinson,7
+1828,147,Tom,3
+1829,147,Clive,2
+1830,147,Ernie Hudson,2
+1831,147,Girl #1 (S7E11),1
+1832,147,Girl #2 (S7E11),1
+1833,147,Girl #3 (S7E11),1
+1834,147,Penny Mosby,0
+1835,147,Luke Mosby,0
+1836,148,Robin Scherbatsky,66
+1837,148,Barney Stinson,40
+1838,148,Marshall Eriksen,29
+1839,148,Lily Aldrin,28
+1840,148,Ted Mosby,24
+1841,148,Scott (S7E12),16
+1842,148,Dr. Sonya,8
+1843,148,Insane Duane,7
+1844,148,Sheila (S7E12),1
+1845,149,Marshall Eriksen,46
+1846,149,Ted Mosby,37
+1847,149,Barney Stinson,22
+1848,149,Robin Scherbatsky,20
+1849,149,Lily Aldrin,19
+1850,149,Kevin Venkataraghavan,16
+1851,149,Sandy Rivers,11
+1852,149,Marcus Eriksen,11
+1853,149,Doug Martin,8
+1854,149,Mickey Aldrin,6
+1855,149,Mourner #1,6
+1856,149,Marvin Eriksen Sr.,3
+1857,149,Marvin Eriksen Jr.,3
+1858,149,Tina,2
+1859,149,Mourner #2,2
+1860,149,Guy at Tailgate,2
+1861,149,Guy in Line,1
+1862,149,P.A.,1
+1863,149,Guy (S7E13),1
+1864,149,Mourner #3,1
+1865,150,Ted Mosby,34
+1866,150,Robin Scherbatsky,33
+1867,150,Barney Stinson,33
+1868,150,Kevin Venkataraghavan,29
+1869,150,Mickey Aldrin,29
+1870,150,Marshall Eriksen,23
+1871,150,Lily Aldrin,17
+1872,150,Arvydas,7
+1873,150,Jasmine,5
+1874,150,Ferrari,1
+1875,150,Larry,1
+1876,151,Lily Aldrin,46
+1877,151,Marshall Eriksen,44
+1878,151,Ted Mosby,36
+1879,151,Barney Stinson,35
+1880,151,Robin Scherbatsky,32
+1881,151,Garrison Cootes,28
+1882,151,Mickey Aldrin,25
+1883,151,Geraldine,6
+1884,152,Barney Stinson,51
+1885,152,Ted Mosby,39
+1886,152,Robin Scherbatsky,28
+1887,152,Kevin Venkataraghavan,28
+1888,152,Lily Aldrin,27
+1889,152,Marshall Eriksen,26
+1890,152,Quinn Garvey,16
+1891,152,Drunk Train Girl #5,4
+1892,152,Ferrari,2
+1893,152,Girl at Bar,2
+1894,152,Drunk Train Girl #2,2
+1895,152,Drunk Train Girl #3,2
+1896,152,Quinn's Friend,2
+1897,152,Judy Eriksen,1
+1898,152,Drunk Train Girl #1,1
+1899,152,Drunk Train Girl #4,1
+1900,152,Drunk Train Guy #1,1
+1901,152,Drunk Train Guy #2,1
+1902,153,Ted Mosby,60
+1903,153,Lily Aldrin,43
+1904,153,Marshall Eriksen,39
+1905,153,Barney Stinson,32
+1906,153,Robin Scherbatsky,17
+1907,153,Consuela,4
+1908,153,Patrice,2
+1909,153,Penny Mosby,0
+1910,153,Luke Mosby,0
+1911,154,Barney Stinson,51
+1912,154,Ted Mosby,41
+1913,154,Robin Scherbatsky,39
+1914,154,Quinn Garvey,30
+1915,154,Lily Aldrin,23
+1916,154,Marshall Eriksen,18
+1917,154,Ferrari,1
+1918,154,Guy in Strip Club,1
+1919,154,Nearsighted Stripper,1
+1920,154,Patrice,0
+1921,154,Penny Mosby,0
+1922,154,Luke Mosby,0
+1923,155,Ted Mosby,62
+1924,155,Barney Stinson,58
+1925,155,Lily Aldrin,35
+1926,155,Robin Scherbatsky,32
+1927,155,Quinn Garvey,31
+1928,155,Marshall Eriksen,26
+1929,155,Ned,2
+1930,155,Patrice,1
+1931,155,Martin,1
+1932,155,Penny Mosby,0
+1933,155,Luke Mosby,0
+1934,156,Ted Mosby,56
+1935,156,Marshall Eriksen,51
+1936,156,Barney Stinson,45
+1937,156,Robin Scherbatsky,19
+1938,156,Lily Aldrin,13
+1939,156,Quinn Garvey,9
+1940,156,Veronica,4
+1941,156,Chester,4
+1942,156,Trey,2
+1943,156,Penny Mosby,0
+1944,157,Ted Mosby,54
+1945,157,Barney Stinson,44
+1946,157,Marshall Eriksen,34
+1947,157,Lily Aldrin,23
+1948,157,Robin Scherbatsky,22
+1949,157,Ranjit Singh,14
+1950,157,Gary,9
+1951,157,Sandy Rivers,5
+1952,157,Quinn Garvey,4
+1953,157,Pilot,4
+1954,158,Ted Mosby,60
+1955,158,Barney Stinson,49
+1956,158,Marshall Eriksen,36
+1957,158,Lily Aldrin,29
+1958,158,Robin Scherbatsky,15
+1959,158,Quinn Garvey,14
+1960,158,Holly (S7E22),5
+1961,158,Darryl,3
+1962,158,Lizbeth,3
+1963,158,Robyn,2
+1964,158,Yuthers,1
+1965,158,Grandma Lois,1
+1966,158,Dirty Larry,1
+1967,158,Waiter (S7E22),1
+1968,158,Lou,1
+1969,159,Lily Aldrin,49
+1970,159,Robin Scherbatsky,46
+1971,159,Ted Mosby,42
+1972,159,Barney Stinson,37
+1973,159,Marshall Eriksen,32
+1974,159,Mickey Aldrin,11
+1975,159,Dr. Sonya,5
+1976,159,Bus Driver (S7E23),3
+1977,159,Security Guard (S8E23),2
+1978,159,Old Woman #1,2
+1979,159,Old Man (S7E23),2
+1980,159,Man (S7E23),1
+1981,159,Homeless Guy,1
+1982,159,Taxi Driver (S7E23),1
+1983,159,Old Asian Man,1
+1984,159,Nurse (S7E23),1
+1985,159,Old Woman #2,1
+1986,159,Penny Mosby,0
+1987,159,Luke Mosby,0
+1988,159,Marvin W. Eriksen,0
+1989,160,Ted Mosby,53
+1990,160,Barney Stinson,46
+1991,160,Robin Scherbatsky,32
+1992,160,Quinn Garvey,23
+1993,160,Marshall Eriksen,19
+1994,160,Victoria,16
+1995,160,Lily Aldrin,14
+1996,160,Guard #1,8
+1997,160,Mr. Flanagan,5
+1998,160,Mr. McIntee,4
+1999,160,Guard #2,3
+2000,160,Mrs. Matsen,2
+2001,160,Loretta Stinson,1
+2002,160,Store Owner,1
+2003,160,Guard #3,1
+2004,160,Marvin W. Eriksen,0
+2005,161,Ted Mosby,47
+2006,161,Robin Scherbatsky,32
+2007,161,Barney Stinson,26
+2008,161,Quinn Garvey,20
+2009,161,Lily Aldrin,19
+2010,161,Marshall Eriksen,18
+2011,161,Victoria,17
+2012,161,Klaus,13
+2013,161,Uta,5
+2014,161,Nick Podarutti,2
+2015,161,Bernice,1
+2016,161,Cab Driver (S8E1),1
+2017,161,Marvin W. Eriksen,0
+2018,162,Barney Stinson,41
+2019,162,Quinn Garvey,40
+2020,162,Ted Mosby,28
+2021,162,Robin Scherbatsky,24
+2022,162,Lily Aldrin,23
+2023,162,Marshall Eriksen,21
+2024,162,Arthur Hobbs,19
+2025,162,Victoria,13
+2026,162,Nick Podarutti,10
+2027,162,Klaus,8
+2028,162,Judy Eriksen,2
+2029,162,Marvin Eriksen Sr.,2
+2030,162,Marvin W. Eriksen,0
+2031,162,Marcus Eriksen,0
+2032,162,Marvin Eriksen Jr.,0
+2033,163,Lily Aldrin,42
+2034,163,Ted Mosby,32
+2035,163,Marshall Eriksen,30
+2036,163,Barney Stinson,30
+2037,163,Robin Scherbatsky,24
+2038,163,Mickey Aldrin,16
+2039,163,Mrs. Buckminster,15
+2040,163,Julie Jorgensen,13
+2041,163,Nick Podarutti,3
+2042,163,Nanny #4,2
+2043,163,Victoria,1
+2044,163,Nanny #1,1
+2045,163,Nanny #2,1
+2046,163,Nanny #3,1
+2047,163,Marvin W. Eriksen,0
+2048,164,Marshall Eriksen,56
+2049,164,Ted Mosby,46
+2050,164,Barney Stinson,34
+2051,164,Lily Aldrin,33
+2052,164,Robin Scherbatsky,27
+2053,164,Marvin W. Eriksen,4
+2054,164,Nick Podarutti,2
+2055,164,Victoria,1
+2056,164,Marcus Eriksen,1
+2057,164,Girl (S8E4),1
+2058,164,Penny Mosby,0
+2059,164,Luke Mosby,0
+2060,165,Ted Mosby,38
+2061,165,Robin Scherbatsky,27
+2062,165,Marshall Eriksen,25
+2063,165,Barney Stinson,23
+2064,165,Lily Aldrin,20
+2065,165,Nick Podarutti,19
+2066,165,Victoria,19
+2067,165,Brover's Owner,3
+2068,165,Dog Owner,2
+2069,165,Penny Mosby,0
+2070,165,Luke Mosby,0
+2071,166,Robin Scherbatsky,56
+2072,166,Ted Mosby,41
+2073,166,Nick Podarutti,39
+2074,166,Barney Stinson,32
+2075,166,Marshall Eriksen,26
+2076,166,Lily Aldrin,18
+2077,166,Patrice,3
+2078,166,Architect #1,2
+2079,166,Architect #2,2
+2080,166,Girl #1 (S8E6),2
+2081,166,Girl #2 (S8E6),2
+2082,166,Joel,1
+2083,166,Marvin W. Eriksen,0
+2084,167,Marshall Eriksen,41
+2085,167,Ted Mosby,36
+2086,167,Barney Stinson,32
+2087,167,Robin Scherbatsky,30
+2088,167,Lily Aldrin,29
+2089,167,Henry Honeywell,23
+2090,167,Brad Morris,22
+2091,167,Moneyballs Rep,1
+2092,167,Fred (S8E7),1
+2093,167,Lusty Leopard Rep,1
+2094,167,Hot Dog Guy,1
+2095,167,College Guy (S8E7),1
+2096,167,Marvin W. Eriksen,0
+2097,168,Marshall Eriksen,46
+2098,168,Barney Stinson,26
+2099,168,Ted Mosby,24
+2100,168,Robin Scherbatsky,24
+2101,168,Brad Morris,21
+2102,168,Lily Aldrin,19
+2103,168,Judge Donovan,13
+2104,168,Bailiff Frankel,6
+2105,168,Marvin W. Eriksen,4
+2106,168,Judge #1,4
+2107,168,Judge #2,3
+2108,168,Cop (S8E8),3
+2109,168,Scooter,2
+2110,168,Dr. Bedrosian,2
+2111,168,Clerk (S8E8),2
+2112,168,Mountie Pierre,2
+2113,168,Henry Honeywell,1
+2114,168,Kid #1 (S8E8),1
+2115,168,Kid #2 (S8E8),1
+2116,169,Lily Aldrin,51
+2117,169,Robin Scherbatsky,50
+2118,169,Barney Stinson,35
+2119,169,Marshall Eriksen,31
+2120,169,Ted Mosby,29
+2121,169,Patrice,8
+2122,169,Brandi,5
+2123,169,Doctor (S8E9),1
+2124,169,Marvin W. Eriksen,0
+2125,169,Penny Mosby,0
+2126,170,Ted Mosby,52
+2127,170,Robin Scherbatsky,48
+2128,170,Lily Aldrin,42
+2129,170,Marshall Eriksen,31
+2130,170,Barney Stinson,30
+2131,170,Patrice,15
+2132,170,Mickey Aldrin,10
+2133,170,Judy Eriksen,10
+2134,170,Stuart Bowers,3
+2135,170,Female Inmate,2
+2136,170,Woman (S8E10),2
+2137,170,Marvin W. Eriksen,0
+2138,171,Ted Mosby,41
+2139,171,Marshall Eriksen,40
+2140,171,Lily Aldrin,23
+2141,171,Robin Scherbatsky,21
+2142,171,Barney Stinson,21
+2143,171,Professor Vinick,19
+2144,171,Daryl LaCoutre,17
+2145,171,Patrice,7
+2146,171,Sandy Rivers,6
+2147,171,Waitress (S8E11),1
+2148,172,Ted Mosby,41
+2149,172,Marshall Eriksen,38
+2150,172,Lily Aldrin,30
+2151,172,Robin Scherbatsky,28
+2152,172,Barney Stinson,24
+2153,172,Mickey Aldrin,9
+2154,172,Ranjit Singh,6
+2155,172,Patrice,4
+2156,172,Yuthers,1
+2157,172,Marvin W. Eriksen,0
+2158,173,Ted Mosby,57
+2159,173,Robin Scherbatsky,44
+2160,173,Lily Aldrin,33
+2161,173,Barney Stinson,29
+2162,173,Robin Scherbatsky Sr.,26
+2163,173,Marshall Eriksen,22
+2164,173,Cindy,4
+2165,173,Casey,3
+2166,173,Waiter (S8E13),2
+2167,173,"Adam ""Punchy"" Punciarello",2
+2168,173,Marvin W. Eriksen,0
+2169,174,Ted Mosby,76
+2170,174,Barney Stinson,56
+2171,174,Marshall Eriksen,27
+2172,174,Robin Scherbatsky,26
+2173,174,Lily Aldrin,19
+2174,174,Carly Whittaker,15
+2175,174,Man #2 (S8E14),3
+2176,174,Girl (S8E14),1
+2177,174,Man #1 (S8E14),1
+2178,174,Man #3 (S8E14),1
+2179,174,Man #4 (S8E14),1
+2180,174,Man #5,1
+2181,175,Ted Mosby,42
+2182,175,Barney Stinson,36
+2183,175,Robin Scherbatsky,28
+2184,175,Marshall Eriksen,20
+2185,175,Lily Aldrin,15
+2186,175,Jeanette Peterson,12
+2187,175,Simon Tremblay,8
+2188,175,Underneath The Tunes Narrator,7
+2189,175,Jason Priestley,6
+2190,175,Paul Shaffer,5
+2191,175,Geddy Lee,4
+2192,175,Gordie,3
+2193,175,Luc Robitaille,3
+2194,175,Alex Trebek,3
+2195,175,Alan Thicke,3
+2196,175,Turk Grimsby,2
+2197,175,Chuck Gerussi,2
+2198,175,Steven Page,2
+2199,175,k.d. lang,2
+2200,175,Dave Coulier,2
+2201,176,Ted Mosby,65
+2202,176,Robin Scherbatsky,58
+2203,176,Lily Aldrin,42
+2204,176,Barney Stinson,34
+2205,176,Marshall Eriksen,23
+2206,176,Jeanette Peterson,17
+2207,176,Mike Tyson,8
+2208,176,Old Lady (S8E16),7
+2209,176,Dolores,3
+2210,176,Marvin W. Eriksen,0
+2211,176,Penny Mosby,0
+2212,176,Luke Mosby,0
+2213,177,Ted Mosby,73
+2214,177,The Captain,44
+2215,177,Barney Stinson,35
+2216,177,Robin Scherbatsky,34
+2217,177,Lily Aldrin,30
+2218,177,Marshall Eriksen,27
+2219,177,Becky,4
+2220,177,Shelly (S8E17),2
+2221,177,Mike the Cameraman,0
+2222,178,Barney Stinson,56
+2223,178,Ted Mosby,54
+2224,178,Marshall Eriksen,29
+2225,178,Robin Scherbatsky,29
+2226,178,Lily Aldrin,18
+2227,178,Strickland Stevens,7
+2228,178,Jeanette Peterson,6
+2229,178,Girl #2 (S8E18),3
+2230,178,Girl #1 (S8E18),2
+2231,178,Beach Babe,1
+2232,178,Art Gallery Attendee,1
+2233,179,Barney Stinson,46
+2234,179,Ted Mosby,37
+2235,179,Robin Scherbatsky,34
+2236,179,Marshall Eriksen,32
+2237,179,Lily Aldrin,30
+2238,179,Tabatha,7
+2239,179,The Captain,6
+2240,179,Woman #2 (S8E19),5
+2241,179,Man #2 (S8E19),3
+2242,179,Girl #1 (S8E19),2
+2243,179,Girl #2 (S8E19),2
+2244,179,Realtor,1
+2245,179,Man #1 (S8E19),1
+2246,179,Woman #1,1
+2247,179,Marvin W. Eriksen,0
+2248,180,Ted Mosby,75
+2249,180,Barney Stinson,66
+2250,180,Marshall Eriksen,27
+2251,180,Robin Scherbatsky,15
+2252,180,Lily Aldrin,11
+2253,180,Coat Check Girl,10
+2254,180,Carl MacLaren,9
+2255,180,Louis,2
+2256,180,Marvin W. Eriksen,0
+2257,180,Penny Mosby,0
+2258,180,Luke Mosby,0
+2259,181,Barney Stinson,50
+2260,181,Lily Aldrin,48
+2261,181,Ted Mosby,37
+2262,181,Marshall Eriksen,26
+2263,181,Robin Scherbatsky,15
+2264,181,Liddy Gates,15
+2265,181,The Captain,14
+2266,181,Bellissima,5
+2267,181,Bernard,3
+2268,181,Italian Auctioneer,2
+2269,181,Marvin W. Eriksen,0
+2270,182,Barney Stinson,73
+2271,182,Ted Mosby,34
+2272,182,Robin Scherbatsky,33
+2273,182,Marshall Eriksen,30
+2274,182,Quinn Garvey,19
+2275,182,Ralph Macchio,15
+2276,182,Lily Aldrin,13
+2277,182,Loretta Stinson,12
+2278,182,Chinese Mobster,5
+2279,182,Billy Zabka,1
+2280,183,Ted Mosby,57
+2281,183,Marshall Eriksen,32
+2282,183,Robin Scherbatsky,31
+2283,183,Lily Aldrin,24
+2284,183,Robin Scherbatsky Sr.,23
+2285,183,Barney Stinson,22
+2286,183,Kid #2 (S8E23),2
+2287,183,Woman (S8E23),1
+2288,183,Kid #1 (S8E23),1
+2289,183,Tanner,1
+2290,183,Kaden,1
+2291,183,Kai,1
+2292,184,Lily Aldrin,50
+2293,184,Marshall Eriksen,37
+2294,184,Robin Scherbatsky,37
+2295,184,Ted Mosby,33
+2296,184,Barney Stinson,28
+2297,184,Rand,21
+2298,184,Krirsten,15
+2299,184,Calvin,14
+2300,184,Judy Eriksen,5
+2301,184,Marcus Eriksen,4
+2302,184,Hostess (S8E24),3
+2303,184,Ranjit Singh,1
+2304,184,Tracy McConnell,1
+2305,184,Carl MacLaren,0
+2306,184,Marvin W. Eriksen,0
+2307,184,Penny Mosby,0
+2308,184,Luke Mosby,0
+2309,185,Lily Aldrin,44
+2310,185,Robin Scherbatsky,40
+2311,185,Ted Mosby,37
+2312,185,Barney Stinson,36
+2313,185,Marshall Eriksen,26
+2314,185,Daphne,18
+2315,185,Tracy McConnell,16
+2316,185,Judy Eriksen,10
+2317,185,Flight Attendant (S9E1),4
+2318,185,Ranjit Singh,3
+2319,185,James Stinson,2
+2320,185,Airport Officer,2
+2321,185,Airport Gate Agent (S9E1),1
+2322,185,Woman (S9E1),1
+2323,185,Marvin W. Eriksen,0
+2324,186,Ted Mosby,46
+2325,186,Barney Stinson,33
+2326,186,Marshall Eriksen,30
+2327,186,Robin Scherbatsky,22
+2328,186,Curtis,22
+2329,186,Lily Aldrin,21
+2330,186,James Stinson,20
+2331,186,Daphne,19
+2332,186,Tracy McConnell,12
+2333,186,Herm (S9E2),9
+2334,186,Linus,1
+2335,186,Airport Gate Agent (S9E2),1
+2336,186,Val,1
+2337,186,Old Gypsy Woman,1
+2338,186,Marvin W. Eriksen,0
+2339,187,Ted Mosby,51
+2340,187,Lily Aldrin,48
+2341,187,Robin Scherbatsky,47
+2342,187,Barney Stinson,33
+2343,187,Marshall Eriksen,15
+2344,187,James Stinson,6
+2345,187,Daphne,4
+2346,187,Policeman,3
+2347,187,Aunt Muriel,2
+2348,187,Marvin W. Eriksen,1
+2349,187,Old Man (S9E3),1
+2350,187,Packers Fan,1
+2351,187,Elderly Uncle,1
+2352,187,Elderly Aunt,1
+2353,187,Linus,0
+2354,188,Ted Mosby,60
+2355,188,Barney Stinson,53
+2356,188,Robin Scherbatsky,35
+2357,188,Lily Aldrin,32
+2358,188,Marshall Eriksen,18
+2359,188,Amanda (S9E4),6
+2360,188,Billy Zabka,4
+2361,188,Patrice,3
+2362,188,Tim Gunn,2
+2363,188,Ranjit Singh,1
+2364,188,Woman (S9E4),1
+2365,188,Linus,0
+2366,189,Marshall Eriksen,42
+2367,189,Ted Mosby,40
+2368,189,Barney Stinson,37
+2369,189,Robin Scherbatsky,29
+2370,189,Lily Aldrin,27
+2371,189,James Stinson,13
+2372,189,Stuart Bowers,9
+2373,189,Loretta Stinson,8
+2374,189,Daphne,4
+2375,189,Billy Zabka,3
+2376,189,Ranjit Singh,3
+2377,189,Claudia Grice,2
+2378,189,Delivery Guy,2
+2379,189,Marvin W. Eriksen,0
+2380,189,Tim Gunn,0
+2381,189,Naomi,0
+2382,190,Ted Mosby,46
+2383,190,Barney Stinson,36
+2384,190,Marshall Eriksen,31
+2385,190,Daphne,29
+2386,190,Cassie Lowell,25
+2387,190,Robert Lowell,23
+2388,190,Robin Scherbatsky,22
+2389,190,Lily Aldrin,16
+2390,190,Knight,9
+2391,190,Cassie's Dad,3
+2392,190,Sophia,2
+2393,190,Wesley,2
+2394,190,Grace,1
+2395,190,Waiter (S9E6),1
+2396,190,Marvin W. Eriksen,0
+2397,191,Ted Mosby,54
+2398,191,Marshall Eriksen,48
+2399,191,Barney Stinson,42
+2400,191,Lily Aldrin,39
+2401,191,Robin Scherbatsky,31
+2402,191,Hamish,10
+2403,191,TV Narrator,5
+2404,191,Daphne,3
+2405,191,Bellhop,2
+2406,191,Captain Dearduff,2
+2407,191,Carrie,2
+2408,191,Marcus Eriksen,1
+2409,191,Penny Mosby,0
+2410,191,Luke Mosby,0
+2411,191,Marvin W. Eriksen,0
+2412,192,Ted Mosby,36
+2413,192,Robin Scherbatsky,28
+2414,192,Marshall Eriksen,26
+2415,192,Barney Stinson,21
+2416,192,Lily Aldrin,20
+2417,192,Loretta Stinson,20
+2418,192,Clint,18
+2419,192,Daphne,16
+2420,192,Tracy McConnell,7
+2421,192,Cassie Lowell,7
+2422,192,Curtis,3
+2423,192,Virginia Mosby,3
+2424,192,Waiter (S9E8),2
+2425,192,Linus,1
+2426,192,Penny Mosby,0
+2427,192,Luke Mosby,0
+2428,192,Marvin W. Eriksen,0
+2429,193,Ted Mosby,57
+2430,193,Barney Stinson,41
+2431,193,Marshall Eriksen,30
+2432,193,Robin Scherbatsky,29
+2433,193,Lily Aldrin,24
+2434,193,Hammond Druthers,19
+2435,193,Tracy McConnell,8
+2436,193,Girl #1 (S9E9),4
+2437,193,Redhead,4
+2438,193,Girl #2 (S9E9),1
+2439,193,Elaine,1
+2440,193,Maitre 'd,1
+2441,193,Eddie,1
+2442,194,Barney Stinson,47
+2443,194,Ted Mosby,39
+2444,194,James Stinson,22
+2445,194,Jerry Whittaker,22
+2446,194,Loretta Stinson,18
+2447,194,Marshall Eriksen,17
+2448,194,Daphne,16
+2449,194,Billy Zabka,15
+2450,194,Robin Scherbatsky,12
+2451,194,Lily Aldrin,8
+2452,194,Sam Gibbs,8
+2453,194,Shondra,5
+2454,194,Cheryl Whittaker,4
+2455,194,Claude,4
+2456,194,Ranjit Singh,3
+2457,194,Bellhop,2
+2458,194,Spa Attendant,2
+2459,194,Cop (S9E10),1
+2460,194,Marvin W. Eriksen,0
+2461,195,Marshall Eriksen,57
+2462,195,Barney Stinson,33
+2463,195,Ted Mosby,26
+2464,195,Robin Scherbatsky,15
+2465,195,Lisa (S9E11),15
+2466,195,Lily Aldrin,12
+2467,195,Gus,12
+2468,195,Bus Driver (S9E11),7
+2469,195,Man (S9E11),5
+2470,195,Simon Tremblay,5
+2471,195,Thug,2
+2472,195,Woman (S9E11),1
+2473,195,Penny Mosby,0
+2474,195,Luke Mosby,0
+2475,195,Marvin W. Eriksen,0
+2476,196,Barney Stinson,78
+2477,196,Robin Scherbatsky,62
+2478,196,Lily Aldrin,38
+2479,196,Ted Mosby,30
+2480,196,Marshall Eriksen,11
+2481,196,Security Guard (S9E12),4
+2482,196,Alan Thicke,3
+2483,196,James Stinson,2
+2484,196,Frederick Banting,1
+2485,196,Norman Breakey,1
+2486,196,Louise Poirier,1
+2487,197,Tracy McConnell,39
+2488,197,Ted Mosby,36
+2489,197,Marshall Eriksen,33
+2490,197,Barney Stinson,33
+2491,197,Robin Scherbatsky,31
+2492,197,Lily Aldrin,27
+2493,197,Darren,26
+2494,197,Linus,6
+2495,197,Marvin W. Eriksen,1
+2496,198,Marshall Eriksen,97
+2497,198,Barney Stinson,39
+2498,198,Ted Mosby,26
+2499,198,Robin Scherbatsky,25
+2500,198,Lily Aldrin,22
+2501,198,Kung Fu Teacher,3
+2502,198,Kid (S9E14),3
+2503,198,Man (S9E14),3
+2504,198,Carl MacLaren,2
+2505,198,Karina,1
+2506,198,Nora,1
+2507,198,Woman (S9E14),1
+2508,198,Linus,0
+2509,198,Crazy Meg,0
+2510,198,Shannon,0
+2511,198,Shelly (S5E8),0
+2512,198,Mrs. Douglas,0
+2513,199,Ted Mosby,73
+2514,199,Barney Stinson,63
+2515,199,Marshall Eriksen,42
+2516,199,Robin Scherbatsky,34
+2517,199,Lily Aldrin,28
+2518,199,Tracy McConnell,13
+2519,199,Greg Fisher,11
+2520,199,Linus,1
+2521,199,Man (S9E15),1
+2522,199,Trevor Hudson's Handler,1
+2523,199,Penny Mosby,0
+2524,200,Tracy McConnell,85
+2525,200,Kelly (S9E16),21
+2526,200,Mitch,21
+2527,200,Ted Mosby,17
+2528,200,Cindy,17
+2529,200,Louis,12
+2530,200,Darren,7
+2531,200,Barney Stinson,3
+2532,200,Lily Aldrin,3
+2533,200,Curtis,3
+2534,200,Woman in Low Point,1
+2535,200,Marshall Eriksen,0
+2536,200,Robin Scherbatsky,0
+2537,200,Linus,0
+2538,201,Ted Mosby,71
+2539,201,Robin Scherbatsky,34
+2540,201,Lily Aldrin,23
+2541,201,Marshall Eriksen,18
+2542,201,Justin,16
+2543,201,Barney Stinson,11
+2544,201,Kyle (S9E17),10
+2545,201,Jeanette Peterson,9
+2546,201,Stella Zinman,7
+2547,201,Victoria,7
+2548,201,Marvin Eriksen Sr.,3
+2549,201,Tim Gunn,2
+2550,201,Operator,2
+2551,201,Curtis,1
+2552,201,Julie,1
+2553,201,Shelly (S9E17),1
+2554,201,Virginia Mosby,0
+2555,202,Ted Mosby,68
+2556,202,Robin Scherbatsky,45
+2557,202,Marshall Eriksen,39
+2558,202,Lily Aldrin,35
+2559,202,Barney Stinson,30
+2560,202,Tracy McConnell,9
+2561,202,Chef,5
+2562,202,Marvin W. Eriksen,3
+2563,202,Mother,2
+2564,202,Penny Mosby,1
+2565,202,Luke Mosby,1
+2566,202,Robin Scherbatsky Sr.,1
+2567,202,Linus,0
+2568,203,Ted Mosby,69
+2569,203,Tracy McConnell,32
+2570,203,Barney Stinson,28
+2571,203,Lily Aldrin,27
+2572,203,Robin Scherbatsky,25
+2573,203,Marshall Eriksen,16
+2574,203,Curtis,9
+2575,203,Jed Mosley,7
+2576,203,Katie Scherbatsky,5
+2577,203,Narshall,3
+2578,203,Grandma,2
+2579,203,Genevieve Scherbatsky,0
+2580,204,Ted Mosby,40
+2581,204,Marshall Eriksen,38
+2582,204,Lily Aldrin,38
+2583,204,Barney Stinson,28
+2584,204,The Captain,22
+2585,204,Genevieve Scherbatsky,20
+2586,204,Robin Scherbatsky,12
+2587,204,Billy Zabka,12
+2588,204,Becky,6
+2589,204,Ranjit Singh,4
+2590,204,Housekeeper #1,2
+2591,204,Housekeeper #2,2
+2592,204,Housekeeper #3,2
+2593,204,Judy Eriksen,1
+2594,204,Linus,1
+2595,204,Mickey Aldrin,1
+2596,204,Penny Mosby,0
+2597,204,Luke Mosby,0
+2598,204,Marvin W. Eriksen,0
+2599,205,Ted Mosby,86
+2600,205,Marshall Eriksen,29
+2601,205,Tracy McConnell,24
+2602,205,Barney Stinson,23
+2603,205,Gary Blauman,23
+2604,205,Lily Aldrin,18
+2605,205,Robin Scherbatsky,15
+2606,205,Billy Zabka,8
+2607,205,James Stinson,6
+2608,205,Steph (S9E21),6
+2609,205,Patrice,2
+2610,205,Carl MacLaren,2
+2611,205,The Blitz,2
+2612,205,Ranjit Singh,1
+2613,205,Jeanette Peterson,1
+2614,205,Carl's Son,1
+2615,205,Kevin Venkataraghavan,1
+2616,205,Bitterman,1
+2617,205,Zoey Pierson,1
+2618,205,Scooter,1
+2619,205,Jasmine,1
+2620,205,Old Woman (S9E21),1
+2621,205,Blah Blah,1
+2622,205,Sandy Rivers,1
+2623,205,Louis,0
+2624,205,Tom,0
+2625,206,Marshall Eriksen,41
+2626,206,Robin Scherbatsky,41
+2627,206,Ted Mosby,37
+2628,206,Barney Stinson,34
+2629,206,Lily Aldrin,33
+2630,206,Tracy McConnell,6
+2631,206,Patrice,1
+2632,206,James Stinson,0
+2633,206,Loretta Stinson,0
+2634,206,Billy Zabka,0
+2635,206,Gary Blauman,0
+2636,206,Jerry Whittaker,0
+2637,206,Genevieve Scherbatsky,0
+2638,206,Ranjit Singh,0
+2639,206,Penny Mosby,0
+2640,206,Sam Gibbs,0
+2641,206,Luke Mosby,0
+2642,206,Marvin W. Eriksen,0
+2643,206,Tim Gunn,0
+2644,206,Cheryl Whittaker,0
+2645,206,Robin Scherbatsky Sr.,0
+2646,207,Ted Mosby,60
+2647,207,Barney Stinson,49
+2648,207,Robin Scherbatsky,42
+2649,207,Lily Aldrin,35
+2650,207,Marshall Eriksen,33
+2651,207,Bernice,11
+2652,207,Tracy McConnell,9
+2653,207,Mother,1
+2654,208,Ted Mosby,66
+2655,208,Barney Stinson,46
+2656,208,Tracy McConnell,31
+2657,208,Lily Aldrin,29
+2658,208,Marshall Eriksen,22
+2659,208,Robin Scherbatsky,19
+2660,208,Penny Mosby,13
+2661,208,Luke Mosby,5
+2662,208,Nurse (S9E24),4
+2663,208,Girl #1 (S9E24),1
+2664,208,Girl #2 (S9E24),1
+2665,208,Girl #3 (S9E24),1
+2666,208,Girl #4 (S9E24),1
+2667,208,Jim Nantz,1
+2668,208,Guy (S9E24),1
+2669,208,Bernice,0

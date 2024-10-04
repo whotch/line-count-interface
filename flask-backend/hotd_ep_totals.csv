@@ -1,0 +1,653 @@
+id,ep_id,char_name,line_count
+1,1,Viserys Targaryen,81
+2,1,Rhaenyra Targaryen,46
+3,1,Daemon Targaryen,41
+4,1,Otto Hightower,30
+5,1,Aemma Arryn,29
+6,1,Alicent Hightower,27
+7,1,Mellos,21
+8,1,Corlys Velaryon,12
+9,1,Lyonel Strong,8
+10,1,Harrold Westerling,6
+11,1,Lyman Beesbury,5
+12,1,Master of Revels,4
+13,1,Rhaenys Targaryen,3
+14,1,Criston Cole,3
+15,1,Boremund Baratheon,3
+16,1,Randyll Barret,3
+17,1,Mysaria,2
+18,1,Mickon,2
+19,1,Hobert Hightower,1
+20,1,Dragonkeeper Elder (S1E1),1
+21,1,Jaehaerys I Targaryen,1
+22,1,Ryam Redwyne,1
+23,1,Rickon Stark,1
+24,1,Dragonkeeper #1,1
+25,1,Dragonkeeper #2,1
+26,1,Laenor Velaryon,0
+27,1,Laena Velaryon,0
+28,1,Erryk Cargyll,0
+29,1,Arryk Cargyll,0
+30,1,High Septon,0
+31,1,Gwayne Hightower,0
+32,2,Viserys Targaryen,67
+33,2,Rhaenyra Targaryen,43
+34,2,Otto Hightower,32
+35,2,Daemon Targaryen,29
+36,2,Corlys Velaryon,22
+37,2,Alicent Hightower,18
+38,2,Lyonel Strong,9
+39,2,Rhaenys Targaryen,8
+40,2,Mysaria,8
+41,2,Laena Velaryon,7
+42,2,Harrold Westerling,6
+43,2,Mellos,6
+44,2,Criston Cole,4
+45,2,Dragonkeeper Elder (S1E1),3
+46,2,Lyman Beesbury,2
+47,2,Steffon Darklyn,1
+48,2,Crabfeeder,0
+49,3,Viserys Targaryen,62
+50,3,Rhaenyra Targaryen,49
+51,3,Alicent Hightower,36
+52,3,Otto Hightower,21
+53,3,Jason Lannister,19
+54,3,Criston Cole,11
+55,3,Triarchy Lieutenant,7
+56,3,Tyland Lannister,6
+57,3,Laenor Velaryon,6
+58,3,Hobert Hightower,6
+59,3,Howland Sharp,6
+60,3,Lyonel Strong,5
+61,3,Vaemond Velaryon,5
+62,3,Ceira Lannister,5
+63,3,Samwell,5
+64,3,Corlys Velaryon,4
+65,3,Joffrey Lonmouth,2
+66,3,Joselyn Redwyne,2
+67,3,Addam,2
+68,3,Daemon Targaryen,1
+69,3,Larys Strong,1
+70,3,Harwin Strong,1
+71,3,Lynesse Hightower,1
+72,3,Wet Nurse,1
+73,3,Velaryon Knight,1
+74,3,Harrold Westerling,0
+75,3,Aegon Targaryen,0
+76,3,Royal Handmaiden,0
+77,3,Crabfeeder,0
+78,4,Rhaenyra Targaryen,63
+79,4,Viserys Targaryen,51
+80,4,Daemon Targaryen,32
+81,4,Alicent Hightower,29
+82,4,Otto Hightower,21
+83,4,Criston Cole,10
+84,4,Mysaria,5
+85,4,Boremund Baratheon,5
+86,4,Mellos,3
+87,4,Harwin Strong,3
+88,4,Jerrel Bracken,3
+89,4,Royal Handmaiden,2
+90,4,Willem Blackwood,2
+91,4,Theatre Player,2
+92,4,Beric Dondarrion,2
+93,4,Soren,2
+94,4,Harrold Westerling,1
+95,4,Tyland Lannister,1
+96,4,Lyonel Strong,1
+97,4,Lyman Beesbury,1
+98,4,Woman in Black,1
+99,4,Vendor in Marquee,1
+100,4,Silk Street Drunkard,1
+101,4,Helaena Targaryen,0
+102,5,Viserys Targaryen,30
+103,5,Rhaenyra Targaryen,25
+104,5,Corlys Velaryon,23
+105,5,Alicent Hightower,22
+106,5,Criston Cole,16
+107,5,Rhaenys Targaryen,15
+108,5,Daemon Targaryen,14
+109,5,Laenor Velaryon,13
+110,5,Joffrey Lonmouth,13
+111,5,Larys Strong,12
+112,5,Gerold Royce,12
+113,5,Lyonel Strong,11
+114,5,Laena Velaryon,6
+115,5,Otto Hightower,5
+116,5,Jason Lannister,5
+117,5,Harrold Westerling,4
+118,5,Harwin Strong,4
+119,5,Rhea Royce,4
+120,5,Mellos,3
+121,5,Hobert Hightower,2
+122,5,Orwyle,2
+123,5,High Septon,2
+124,5,Queen's Page,2
+125,5,Queen's Handmaid,1
+126,5,Tyland Lannister,0
+127,5,Helaena Targaryen,0
+128,5,Vaemond Velaryon,0
+129,5,Lyman Beesbury,0
+130,5,Ceira Lannister,0
+131,5,Lynesse Hightower,0
+132,5,Wet Nurse,0
+133,6,Alicent Hightower,62
+134,6,Rhaenyra Targaryen,42
+135,6,Viserys Targaryen,39
+136,6,Laenor Velaryon,31
+137,6,Laena Velaryon,24
+138,6,Harwin Strong,22
+139,6,Lyonel Strong,19
+140,6,Daemon Targaryen,18
+141,6,Criston Cole,17
+142,6,Larys Strong,14
+143,6,Aegon Targaryen,14
+144,6,Jacaerys Velaryon,8
+145,6,Aemond Targaryen,8
+146,6,Helaena Targaryen,6
+147,6,Rhaena Targaryen,5
+148,6,Lucerys Velaryon,5
+149,6,Elinda Massey,5
+150,6,Dragonkeeper Elder (S1E6),5
+151,6,Reggio Haratis,5
+152,6,Younger Midwife,5
+153,6,Pentoshi Surgeon,5
+154,6,Older Midwife,4
+155,6,Dragonkeeper Translator,4
+156,6,Tyland Lannister,3
+157,6,Qarl Correy,3
+158,6,Allun Caswell,2
+159,6,"Jasper ""Ironrod"" Wylde",2
+160,6,Dragonkeeper Acolyte,2
+161,6,Baela Targaryen,1
+162,6,Lyman Beesbury,1
+163,6,Orwyle,1
+164,6,Talya,1
+165,6,Black Cell Gaunt Prisoner,1
+166,6,Harrold Westerling,0
+167,6,Arryk Cargyll,0
+168,6,Joffrey Velaryon,0
+169,7,Rhaenyra Targaryen,41
+170,7,Viserys Targaryen,36
+171,7,Alicent Hightower,31
+172,7,Daemon Targaryen,23
+173,7,Aemond Targaryen,16
+174,7,Corlys Velaryon,12
+175,7,Rhaenys Targaryen,11
+176,7,Harrold Westerling,10
+177,7,Otto Hightower,9
+178,7,Jacaerys Velaryon,9
+179,7,Aegon Targaryen,9
+180,7,Laenor Velaryon,9
+181,7,Criston Cole,6
+182,7,Lucerys Velaryon,6
+183,7,Larys Strong,4
+184,7,Baela Targaryen,4
+185,7,Rhaena Targaryen,4
+186,7,Qarl Correy,4
+187,7,Kelvyn,4
+188,7,Helaena Targaryen,2
+189,7,Vaemond Velaryon,2
+190,7,Talya,1
+191,7,High Priest,1
+192,7,High Tide Page,1
+193,7,Gerardys,0
+194,8,Alicent Hightower,44
+195,8,Rhaenyra Targaryen,41
+196,8,Viserys Targaryen,40
+197,8,Daemon Targaryen,20
+198,8,Rhaenys Targaryen,15
+199,8,Jacaerys Velaryon,15
+200,8,Vaemond Velaryon,14
+201,8,Otto Hightower,11
+202,8,Aegon Targaryen,9
+203,8,Dyana,6
+204,8,Aemond Targaryen,5
+205,8,Baela Targaryen,5
+206,8,Rhaena Targaryen,3
+207,8,Helaena Targaryen,3
+208,8,Erryk Cargyll,3
+209,8,Lyman Beesbury,3
+210,8,Gerardys,3
+211,8,Talya,3
+212,8,Harrold Westerling,2
+213,8,Lucerys Velaryon,2
+214,8,Orwyle,2
+215,8,"Jasper ""Ironrod"" Wylde",2
+216,8,Kelvyn,2
+217,8,Mysaria,1
+218,8,Criston Cole,1
+219,8,Tyland Lannister,1
+220,8,Allun Caswell,1
+221,8,Steffon Darklyn,1
+222,8,Dragonstone Elder,1
+223,8,Elinda Massey,0
+224,8,Lorent Marbrand,0
+225,8,Arryk Cargyll,0
+226,8,Joffrey Velaryon,0
+227,8,Aegon III Targaryen,0
+228,8,Viserys II Targaryen,0
+229,9,Alicent Hightower,42
+230,9,Otto Hightower,38
+231,9,Criston Cole,19
+232,9,Erryk Cargyll,16
+233,9,Aegon Targaryen,13
+234,9,Rhaenys Targaryen,11
+235,9,Aemond Targaryen,11
+236,9,Larys Strong,9
+237,9,Tyland Lannister,7
+238,9,Allun Caswell,6
+239,9,Arryk Cargyll,6
+240,9,Lyman Beesbury,5
+241,9,Sylvi,5
+242,9,Mysaria,4
+243,9,Helaena Targaryen,4
+244,9,"Jasper ""Ironrod"" Wylde",4
+245,9,Jayne,4
+246,9,Harrold Westerling,3
+247,9,Orwyle,3
+248,9,Talya,2
+249,9,Septon Eustace,2
+250,9,Lord Merryweather,2
+251,9,Helaena's Nurse,1
+252,9,Lady Fell,1
+253,9,Viserys Targaryen,0
+254,9,Black Cell Gaunt Prisoner,0
+255,9,Jaehaerys Targaryen,0
+256,9,Jaehaera Targaryen,0
+257,10,Rhaenyra Targaryen,59
+258,10,Daemon Targaryen,39
+259,10,Lucerys Velaryon,18
+260,10,Rhaenys Targaryen,16
+261,10,Corlys Velaryon,15
+262,10,Jacaerys Velaryon,10
+263,10,Bartimos Celtigar,9
+264,10,Aemond Targaryen,8
+265,10,Lorent Marbrand,8
+266,10,Otto Hightower,6
+267,10,Gerardys,5
+268,10,Elinda Massey,4
+269,10,Steffon Darklyn,4
+270,10,Borros Baratheon,4
+271,10,Erryk Cargyll,3
+272,10,Older Midwife,2
+273,10,Rhaena Targaryen,1
+274,10,Simon Staunton,1
+275,10,Baela Targaryen,0
+276,10,Orwyle,0
+277,10,Arryk Cargyll,0
+278,10,High Priest,0
+279,10,Joffrey Velaryon,0
+280,11,Aegon Targaryen,42
+281,11,Alicent Hightower,32
+282,11,Daemon Targaryen,28
+283,11,Otto Hightower,25
+284,11,Cheese,23
+285,11,Blood,19
+286,11,Rhaenys Targaryen,10
+287,11,Criston Cole,9
+288,11,Mysaria,9
+289,11,Aemond Targaryen,9
+290,11,Jacaerys Velaryon,9
+291,11,Cregan Stark,9
+292,11,Larys Strong,8
+293,11,Helaena Targaryen,8
+294,11,Tyland Lannister,8
+295,11,Leon Estermont,6
+296,11,Erryk Cargyll,6
+297,11,Corlys Velaryon,5
+298,11,Alyn of Hull,5
+299,11,Jerard,5
+300,11,Hugh,3
+301,11,Orwyle,2
+302,11,Arryk Cargyll,2
+303,11,Martyn Reyne,2
+304,11,Eddard Waters,2
+305,11,Rhaenyra Targaryen,1
+306,11,"Jasper ""Ironrod"" Wylde",1
+307,11,Stark Captain,1
+308,11,Fisherman,1
+309,11,Guildmaster,1
+310,11,Maidservant,1
+311,11,Baela Targaryen,0
+312,11,Rhaena Targaryen,0
+313,11,Alfred Broome,0
+314,11,Bartimos Celtigar,0
+315,11,Steffon Darklyn,0
+316,11,Lorent Marbrand,0
+317,11,Gerardys,0
+318,11,Gormon Massey,0
+319,11,Simon Staunton,0
+320,11,Joffrey Velaryon,0
+321,11,Jaehaerys Targaryen,0
+322,11,Cupbearer,0
+323,11,Jaehaera Targaryen,0
+324,12,Rhaenyra Targaryen,48
+325,12,Otto Hightower,36
+326,12,Aegon Targaryen,30
+327,12,Criston Cole,22
+328,12,Arryk Cargyll,22
+329,12,Alicent Hightower,18
+330,12,Daemon Targaryen,16
+331,12,Mysaria,14
+332,12,Baela Targaryen,10
+333,12,Jacaerys Velaryon,8
+334,12,Alyn of Hull,8
+335,12,Addam of Hull,8
+336,12,Rhaenys Targaryen,7
+337,12,Corlys Velaryon,5
+338,12,Hugh,5
+339,12,Kat,5
+340,12,Erryk Cargyll,5
+341,12,Aemond Targaryen,4
+342,12,Helaena Targaryen,4
+343,12,Sylvi,4
+344,12,Herald,4
+345,12,Larys Strong,3
+346,12,Blood,3
+347,12,Lorent Marbrand,3
+348,12,Gerardys,3
+349,12,Tyland Lannister,2
+350,12,Ulf,2
+351,12,Alfred Broome,2
+352,12,"Jasper ""Ironrod"" Wylde",2
+353,12,Bartimos Celtigar,2
+354,12,Martyn Reyne,2
+355,12,Elinda Massey,2
+356,12,Orwyle,1
+357,12,Steffon Darklyn,1
+358,12,Eddard Waters,1
+359,12,Ratcatcher Mother,1
+360,12,Ratcatcher Woman,1
+361,12,Master Servant,1
+362,12,Townsman,1
+363,12,Cheese,0
+364,12,Leon Estermont,0
+365,12,Simon Staunton,0
+366,12,Aegon III Targaryen,0
+367,12,Viserys II Targaryen,0
+368,12,Jaehaerys Targaryen,0
+369,13,Rhaenyra Targaryen,56
+370,13,Alicent Hightower,32
+371,13,Criston Cole,21
+372,13,Aegon Targaryen,21
+373,13,Rhaenys Targaryen,15
+374,13,Mysaria,15
+375,13,Daemon Targaryen,14
+376,13,Simon Strong,14
+377,13,Ulf,12
+378,13,Rhaena Targaryen,9
+379,13,Corlys Velaryon,8
+380,13,Gwayne Hightower,8
+381,13,Baela Targaryen,7
+382,13,Alfred Broome,6
+383,13,Aeron Bracken,6
+384,13,Larys Strong,5
+385,13,Helaena Targaryen,5
+386,13,Cley,5
+387,13,Martyn Reyne,5
+388,13,Dornish Merchant,5
+389,13,Davos Blackwood,5
+390,13,"Jasper ""Ironrod"" Wylde",4
+391,13,Mujja,4
+392,13,Bartimos Celtigar,4
+393,13,Leon Estermont,4
+394,13,Eddard Waters,4
+395,13,Aemond Targaryen,3
+396,13,Tyland Lannister,3
+397,13,Orwyle,3
+398,13,Jacaerys Velaryon,2
+399,13,Gerardys,2
+400,13,Elinda Massey,2
+401,13,Gormon Massey,2
+402,13,Cole's Squire,2
+403,13,Simon Staunton,2
+404,13,Alys Rivers,1
+405,13,Dragonkeeper Elder (S2E3),1
+406,13,*Young Rhaenyra Targaryen,1
+407,13,Joffrey Velaryon,1
+408,13,Arryk Cargyll,0
+409,13,Cheese,0
+410,13,Steffon Darklyn,0
+411,13,Lorent Marbrand,0
+412,13,Rickard Thorne,0
+413,13,Sylvi,0
+414,13,Erryk Cargyll,0
+415,13,Dyana,0
+416,13,Axell Bulwer,0
+417,13,Paxter Strong,0
+418,13,Germund Strong,0
+419,13,Aegon III Targaryen,0
+420,13,Viserys II Targaryen,0
+421,13,Jaehaerys Targaryen,0
+422,13,Cupbearer,0
+423,13,Jaehaera Targaryen,0
+424,14,Daemon Targaryen,27
+425,14,Alicent Hightower,22
+426,14,Aegon Targaryen,20
+427,14,Rhaenyra Targaryen,19
+428,14,Rhaenys Targaryen,18
+429,14,Criston Cole,16
+430,14,Jacaerys Velaryon,16
+431,14,Corlys Velaryon,12
+432,14,Larys Strong,12
+433,14,Alys Rivers,11
+434,14,Gwayne Hightower,10
+435,14,Aemond Targaryen,8
+436,14,Orwyle,7
+437,14,Alfred Broome,7
+438,14,Oscar Tully,6
+439,14,Simon Strong,5
+440,14,Willem Blackwood,5
+441,14,Baela Targaryen,4
+442,14,Alyn of Hull,4
+443,14,Bartimos Celtigar,4
+444,14,*Young Rhaenyra Targaryen,4
+445,14,Tyland Lannister,3
+446,14,"Jasper ""Ironrod"" Wylde",2
+447,14,Steffon Darklyn,2
+448,14,Gormon Massey,2
+449,14,Gunthor Darklyn,2
+450,14,Rook's Rest Guardsman,2
+451,14,Martyn Reyne,1
+452,14,Gerardys,1
+453,14,Cole's Squire,1
+454,14,Mysaria,0
+455,14,Lorent Marbrand,0
+456,14,Rickard Thorne,0
+457,14,Leon Estermont,0
+458,14,Eddard Waters,0
+459,14,Dragonkeeper Elder (S2E3),0
+460,14,Dragonstone Elder,0
+461,14,Axell Bulwer,0
+462,14,Simon Staunton,0
+463,14,Paxter Strong,0
+464,14,Laena Velaryon,0
+465,14,Germund Strong,0
+466,14,Cupbearer,0
+467,15,Rhaenyra Targaryen,42
+468,15,Daemon Targaryen,37
+469,15,Jacaerys Velaryon,28
+470,15,Alicent Hightower,19
+471,15,Simon Strong,18
+472,15,Baela Targaryen,16
+473,15,Alys Rivers,11
+474,15,Criston Cole,10
+475,15,Alfred Broome,10
+476,15,Mysaria,8
+477,15,Orwyle,7
+478,15,Jeyne Arryn,7
+479,15,Corlys Velaryon,6
+480,15,Aemond Targaryen,6
+481,15,Rhaena Targaryen,6
+482,15,Willem Blackwood,6
+483,15,Gold Cloak,6
+484,15,Serena Frey,6
+485,15,Tyland Lannister,5
+486,15,Hugh,5
+487,15,Kat,5
+488,15,Lord Darry,4
+489,15,Larys Strong,3
+490,15,"Jasper ""Ironrod"" Wylde",3
+491,15,Elinda Massey,3
+492,15,Lady Mallister,3
+493,15,Amos Bracken,3
+494,15,Forrest Frey,3
+495,15,Bartimos Celtigar,2
+496,15,Steffon Darklyn,2
+497,15,Lorent Marbrand,2
+498,15,Petyr Piper,2
+499,15,Gormon Massey,2
+500,15,Axell Bulwer,2
+501,15,Walys Mooton,2
+502,15,Crofter,2
+503,15,Aegon Targaryen,1
+504,15,Helaena Targaryen,1
+505,15,Gwayne Hightower,1
+506,15,Dyana,1
+507,15,Paxter Strong,1
+508,15,Laena Velaryon,1
+509,15,Alyssa Targaryen,1
+510,15,Hugh's Apprentice,1
+511,15,Rickard Thorne,0
+512,15,Leon Estermont,0
+513,15,Sylvi,0
+514,15,Martyn Reyne,0
+515,15,Gerardys,0
+516,15,Eddard Waters,0
+517,15,Germund Strong,0
+518,15,Raylon Bracken,0
+519,16,Rhaenyra Targaryen,29
+520,16,Alicent Hightower,27
+521,16,Daemon Targaryen,26
+522,16,Aemond Targaryen,25
+523,16,Mysaria,19
+524,16,Alys Rivers,12
+525,16,Gwayne Hightower,11
+526,16,Steffon Darklyn,11
+527,16,Alyn of Hull,10
+528,16,Larys Strong,9
+529,16,Simon Strong,9
+530,16,Corlys Velaryon,8
+531,16,Jacaerys Velaryon,8
+532,16,Rickard Thorne,8
+533,16,Sylvi,8
+534,16,Orwyle,6
+535,16,Ulf,6
+536,16,Criston Cole,5
+537,16,Rhaena Targaryen,5
+538,16,"Jasper ""Ironrod"" Wylde",5
+539,16,Lorent Marbrand,5
+540,16,Dyana,5
+541,16,Viserys Targaryen,5
+542,16,Aegon Targaryen,4
+543,16,Addam of Hull,4
+544,16,Jeyne Arryn,4
+545,16,Dragonkeeper Elder (S2E3),4
+546,16,Hugh,3
+547,16,Jason Lannister,3
+548,16,Humfrey Lefford,3
+549,16,Tyland Lannister,2
+550,16,Kat,2
+551,16,Bartimos Celtigar,2
+552,16,Leon Estermont,2
+553,16,King's Landing Passerby,2
+554,16,King's Landing Merchant,2
+555,16,Helaena Targaryen,1
+556,16,Martyn Reyne,1
+557,16,Eddard Waters,1
+558,16,Dragonstone Elder,1
+559,16,Joffrey Velaryon,1
+560,16,Handmaid,1
+561,16,Gerardys,0
+562,16,Gormon Massey,0
+563,16,Axell Bulwer,0
+564,16,Paxter Strong,0
+565,16,Germund Strong,0
+566,16,Aegon III Targaryen,0
+567,16,Viserys II Targaryen,0
+568,16,Aemma Arryn,0
+569,17,Rhaenyra Targaryen,26
+570,17,Daemon Targaryen,14
+571,17,Oscar Tully,13
+572,17,Mujja,13
+573,17,Larys Strong,10
+574,17,Jacaerys Velaryon,10
+575,17,Cley,10
+576,17,Addam of Hull,9
+577,17,Alicent Hightower,8
+578,17,Corlys Velaryon,8
+579,17,Orwyle,8
+580,17,"Jasper ""Ironrod"" Wylde",8
+581,17,Mysaria,6
+582,17,Aegon Targaryen,5
+583,17,Ulf,5
+584,17,Willem Blackwood,5
+585,17,Alyn of Hull,4
+586,17,Hugh,4
+587,17,Rickard Thorne,4
+588,17,Dragonstone Elder,4
+589,17,Aemond Targaryen,3
+590,17,Kat,3
+591,17,Simon Strong,3
+592,17,Lorent Marbrand,3
+593,17,Petyr Piper,3
+594,17,Bartimos Celtigar,2
+595,17,Gerardys,2
+596,17,Viserys Targaryen,1
+597,17,Lord Darry,1
+598,17,Lady Mallister,1
+599,17,Rowena,1
+600,17,Fishing Captain,1
+601,17,Baela Targaryen,0
+602,17,Rhaena Targaryen,0
+603,17,Martyn Reyne,0
+604,17,Jeyne Arryn,0
+605,17,Eddard Waters,0
+606,17,Elinda Massey,0
+607,17,Gormon Massey,0
+608,17,Gold Cloak,0
+609,17,Dragonkeeper Elder (S2E3),0
+610,17,Amos Bracken,0
+611,17,Walys Mooton,0
+612,17,Aegon III Targaryen,0
+613,17,Viserys II Targaryen,0
+614,17,Raylon Bracken,0
+615,18,Rhaenyra Targaryen,41
+616,18,Alicent Hightower,32
+617,18,Tyland Lannister,21
+618,18,Daemon Targaryen,16
+619,18,Aemond Targaryen,16
+620,18,Helaena Targaryen,15
+621,18,Ulf,15
+622,18,Corlys Velaryon,14
+623,18,Aegon Targaryen,14
+624,18,Jacaerys Velaryon,14
+625,18,Sharako Lohar,13
+626,18,Larys Strong,12
+627,18,Alfred Broome,9
+628,18,Baela Targaryen,8
+629,18,Alyn of Hull,8
+630,18,Criston Cole,7
+631,18,Gwayne Hightower,7
+632,18,Hugh,7
+633,18,Tyroshi Captain,6
+634,18,Myrish Captain,5
+635,18,Lyseni Captain,4
+636,18,Alys Rivers,3
+637,18,Addam of Hull,3
+638,18,Simon Strong,3
+639,18,Petyr Piper,3
+640,18,Mysaria,2
+641,18,Orwyle,2
+642,18,"Jasper ""Ironrod"" Wylde",2
+643,18,Gerardys,2
+644,18,Lorent Marbrand,1
+645,18,Rickard Thorne,1
+646,18,Brynden Rivers,1
+647,18,Otto Hightower,0
+648,18,Rhaena Targaryen,0
+649,18,Cole's Squire,0
+650,18,Jason Lannister,0
+651,18,Humfrey Lefford,0
+652,18,Axell Bulwer,0

@@ -1,0 +1,209 @@
+id,season_num,ep_num,ep_name
+1,1,1,Pilot
+2,1,2,Purple Giraffe
+3,1,3,The Sweet Taste of Liberty
+4,1,4,Return of the Shirt
+5,1,5,Okay Awesome
+6,1,6,Slutty Pumpkin
+7,1,7,Matchmaker
+8,1,8,The Duel
+9,1,9,Belly Full of Turkey
+10,1,10,The Pineapple Incident
+11,1,11,The Limo
+12,1,12,The Wedding
+13,1,13,"Drumroll, Please"
+14,1,14,"Zip, Zip, Zip"
+15,1,15,Game Night
+16,1,16,Cupcake
+17,1,17,Life Among the Gorillas
+18,1,18,Nothing Good Happens After 2 A.M.
+19,1,19,Mary the Paralegal
+20,1,20,Best Prom Ever
+21,1,21,Milk
+22,1,22,Come On
+23,2,1,Where Were We?
+24,2,2,The Scorpion and the Toad
+25,2,3,Brunch
+26,2,4,"Ted Mosby, Architect"
+27,2,5,World's Greatest Couple
+28,2,6,Aldrin Justice
+29,2,7,Swarley
+30,2,8,Atlantic City
+31,2,9,Slap Bet
+32,2,10,Single Stamina
+33,2,11,How Lily Stole Christmas
+34,2,12,First Time in New York
+35,2,13,Columns
+36,2,14,Monday Night Football
+37,2,15,Lucky Penny
+38,2,16,Stuff
+39,2,17,"Arrivederci, Fiero"
+40,2,18,Moving Day
+41,2,19,Bachelor Party
+42,2,20,Showdown
+43,2,21,Something Borrowed
+44,2,22,Something Blue
+45,3,1,Wait for It
+46,3,2,We're Not From Here
+47,3,3,Third Wheel
+48,3,4,Little Boys
+49,3,5,How I Met Everyone Else
+50,3,6,I'm Not That Guy
+51,3,7,Dowisetrepla
+52,3,8,Spoiler Alert
+53,3,9,Slapsgiving
+54,3,10,The Yips
+55,3,11,The Platinum Rule
+56,3,12,No Tomorrow
+57,3,13,Ten Sessions
+58,3,14,The Bracket
+59,3,15,The Chain of Screaming
+60,3,16,Sandcastles in the Sand
+61,3,17,The Goat
+62,3,18,Rebound Bro
+63,3,19,Everything Must Go
+64,3,20,Miracles
+65,4,1,Do I Know You?
+66,4,2,The Best Burger in New York
+67,4,3,I Heart NJ
+68,4,4,Intervention
+69,4,5,Shelter Island
+70,4,6,Happily Ever After
+71,4,7,Not a Father's Day
+72,4,8,Woooo!
+73,4,9,The Naked Man
+74,4,10,The Fight
+75,4,11,Little Minnesota
+76,4,12,Benefits
+77,4,13,Three Days of Snow
+78,4,14,The Possimpible
+79,4,15,The Stinsons
+80,4,16,"Sorry, Bro"
+81,4,17,The Front Porch
+82,4,18,Old King Clancy
+83,4,19,Murtaugh
+84,4,20,Mosbius Designs
+85,4,21,The Three Days Rule
+86,4,22,Right Place Right Time
+87,4,23,As Fast as She Can
+88,4,24,The Leap
+89,5,1,Definitions
+90,5,2,Double Date
+91,5,3,Robin 101
+92,5,4,The Sexless Innkeeper
+93,5,5,Duel Citizenship
+94,5,6,Bagpipes
+95,5,7,The Rough Patch
+96,5,8,The Playbook
+97,5,9,Slapsgiving 2: Revenge of the Slap
+98,5,10,The Window
+99,5,11,Last Cigarette Ever
+100,5,12,Girls vs. Suits
+101,5,13,Jenkins
+102,5,14,Perfect Week
+103,5,15,Rabbit or Duck
+104,5,16,Hooked
+105,5,17,Of Course
+106,5,18,Say Cheese
+107,5,19,Zoo or False
+108,5,20,Home Wreckers
+109,5,21,Twin Beds
+110,5,22,Robots vs. Wrestlers
+111,5,23,The Wedding Bride
+112,5,24,Doppelgangers
+113,6,1,Big Days
+114,6,2,Cleaning House
+115,6,3,Unfinished
+116,6,4,Subway Wars
+117,6,5,Architect of Destruction
+118,6,6,Baby Talk
+119,6,7,Canning Randy
+120,6,8,Natural History
+121,6,9,Glitter
+122,6,10,Blitzgiving
+123,6,11,The Mermaid Theory
+124,6,12,False Positive
+125,6,13,Bad News
+126,6,14,Last Words
+127,6,15,Oh Honey
+128,6,16,Desperation Day
+129,6,17,Garbage Island
+130,6,18,A Change of Heart
+131,6,19,Legendaddy
+132,6,20,The Exploding Meatball Sub
+133,6,21,Hopeless
+134,6,22,The Perfect Cocktail
+135,6,23,Landmarks
+136,6,24,Challenge Accepted
+137,7,1,The Best Man
+138,7,2,The Naked Truth
+139,7,3,Ducky Tie
+140,7,4,The Stinson Missile Crisis
+141,7,5,Field Trip
+142,7,6,Mystery vs. History
+143,7,7,Noretta
+144,7,8,The Slutty Pumpkin Returns
+145,7,9,Disaster Averted
+146,7,10,Tick Tick Tick
+147,7,11,The Rebound Girl
+148,7,12,Symphony of Illumination
+149,7,13,Tailgate
+150,7,14,46 Minutes
+151,7,15,The Burning Beekeeper
+152,7,16,The Drunk Train
+153,7,17,No Pressure
+154,7,18,Karma
+155,7,19,The Broath
+156,7,20,Trilogy Time
+157,7,21,Now We're Even
+158,7,22,Good Crazy
+159,7,23,The Magician's Code: Part 1
+160,7,24,The Magician's Code: Part 2
+161,8,1,Farhampton
+162,8,2,The Pre-Nup
+163,8,3,Nannies
+164,8,4,Who Wants to Be a Godparent
+165,8,5,The Autumn of Breakups
+166,8,6,Splitsville
+167,8,7,The Stamp Tramp
+168,8,8,Twelve Horny Women
+169,8,9,Lobster Crawl
+170,8,10,The Over-Correction
+171,8,11,The Final Page: Part One
+172,8,12,The Final Page: Part Two
+173,8,13,Band or DJ?
+174,8,14,Ring Up!
+175,8,15,P.S. I Love You
+176,8,16,Bad Crazy
+177,8,17,The Ashtray
+178,8,18,Weekend at Barney's
+179,8,19,The Fortress
+180,8,20,The Time Travelers
+181,8,21,Romeward Bound
+182,8,22,The Bro Mitzvah
+183,8,23,Something Old
+184,8,24,Something New
+185,9,1,The Locket
+186,9,2,Coming Back
+187,9,3,Last Time in New York
+188,9,4,The Broken Code
+189,9,5,The Poker Game
+190,9,6,Knight Vision
+191,9,7,No Questions Asked
+192,9,8,The Lighthouse
+193,9,9,Platonish
+194,9,10,Mom and Dad
+195,9,11,Bedtime Stories
+196,9,12,The Rehearsal Dinner
+197,9,13,Bass Player Wanted
+198,9,14,Slapsgiving 3: Slappointment in Slapmarra
+199,9,15,Unpause
+200,9,16,How Your Mother Met Me
+201,9,17,Sunrise
+202,9,18,Rally
+203,9,19,Vesuvius
+204,9,20,Daisy
+205,9,21,Gary Blauman
+206,9,22,The End of the Aisle
+207,9,23,Last Forever: Part One
+208,9,24,Last Forever: Part Two
